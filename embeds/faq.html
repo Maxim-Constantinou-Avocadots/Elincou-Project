@@ -1889,6 +1889,13 @@ body.is-loaded .hero__spectrum i { transform: none; }
   window.addEventListener('load', postHeight);
   // Accordion transitions run 650ms — report again once they settle
   document.addEventListener('click', () => setTimeout(postHeight, 700));
+  // Robustness for hosts (e.g. Wix) whose listener may attach after we first
+  // post: fire a few more times as fonts/layout settle, and answer on demand.
+  window.addEventListener('DOMContentLoaded', postHeight);
+  [100, 400, 900, 1800, 3000].forEach((t) => setTimeout(postHeight, t));
+  window.addEventListener('message', (e) => {
+    if (e.data && e.data.type === 'elincou:faq-request-height') postHeight();
+  });
 })();
 </script>
 </body>
