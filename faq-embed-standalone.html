@@ -1371,17 +1371,11 @@ body.is-loaded .hero__spectrum i { transform: none; }
   align-items: start;
 }
 .faqs__side { position: sticky; top: calc(var(--head-h) + 40px); }
-.faqs__label {
-  font-family: var(--el-font-family); font-size: 11px;
-  font-weight: var(--el-weight-semibold);
-  letter-spacing: 0.14em; text-transform: uppercase;
-  color: var(--el-accent);
-}
 .faqs__side h2 {
   font-size: clamp(2.6rem, 5.5vw, 4.75rem);
   font-weight: var(--el-weight-regular);
   line-height: 1; letter-spacing: -0.03em;
-  margin: var(--el-space-3) 0 var(--el-space-7);
+  margin: 0 0 var(--el-space-7);
 }
 .faqs__side h2 em { font-style: normal; color: var(--el-accent); }
 .faqs__big {
@@ -1402,15 +1396,6 @@ body.is-loaded .hero__spectrum i { transform: none; }
 .faqs__big-num.is-entering { transform: translateY(105%); opacity: 0; }
 .faqs__big-num.is-settled { transition: transform 0.4s var(--exp), opacity 0.4s var(--exp); transform: none; opacity: 1; }
 .faqs__big-total { font-family: var(--el-font-family); font-weight: var(--el-weight-regular); font-size: 13px; letter-spacing: 0.1em; color: var(--el-text-subtle); }
-.faqs__more {
-  display: inline-block; margin-top: var(--el-space-6);
-  font-size: var(--el-text-sm); font-weight: var(--el-weight-semibold);
-  color: var(--el-text); text-decoration: none;
-  border-bottom: 1px solid var(--el-onyx);
-  padding-bottom: 3px;
-  transition: color var(--el-duration-fast) var(--el-ease), border-color var(--el-duration-fast) var(--el-ease);
-}
-.faqs__more:hover { color: var(--el-accent); border-color: var(--el-accent); }
 
 .faqs__list { border-top: 2px solid var(--el-onyx); }
 .faq { border-bottom: 1px solid var(--el-line); border-left: 3px solid transparent; transition: border-color 0.4s var(--exp), background 0.4s var(--exp); }
@@ -1735,13 +1720,11 @@ body.is-loaded .hero__spectrum i { transform: none; }
 <section class="faqs" id="faq">
   <div class="faqs__grid">
     <div class="faqs__side">
-      <span class="faqs__label" data-reveal>(05) — FAQ</span>
       <h2 data-reveal style="--d:.08s">Questions,<br>answered<em>.</em></h2>
       <div class="faqs__big" aria-hidden="true" data-reveal style="--d:.16s">
         <span class="faqs__big-num" id="faq-big-num">01</span>
         <span class="faqs__big-total">/ 06</span>
       </div>
-      <a href="https://maxcon14.github.io/Elincou/#contact" target="_top" class="faqs__more" data-reveal style="--d:.24s">Ask us anything else →</a>
     </div>
 
     <div class="faqs__list" id="faq-list">
