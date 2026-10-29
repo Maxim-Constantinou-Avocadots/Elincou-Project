@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore Elincou's diagnostic instruments. Find and compare analysers by laboratory discipline and installation type.">
+  <meta name="theme-color" content="#0E0E0E">
+  <title>Products — Elincou Diagnostics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/products.css">
+  <script src="js/products.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#catalogue">Skip to products</a>
+  <svg class="svg-defs" aria-hidden="true"><defs>
+    <symbol id="arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+    <symbol id="cross" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+    <symbol id="search-icon" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+    <symbol id="filter-icon" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16"/><path d="M8 4v6m8 4v6"/></symbol>
+    <symbol id="globe" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46"/><ellipse cx="50" cy="50" rx="46" ry="38.5"/><ellipse cx="50" cy="50" rx="46" ry="31"/><ellipse cx="50" cy="50" rx="46" ry="23.5"/><ellipse cx="50" cy="50" rx="46" ry="16"/><ellipse cx="50" cy="50" rx="46" ry="8.5"/><path d="M4 50h92"/></symbol>
+  </defs></svg>
+  <header class="catalog-header">
+    <a href="index.html" aria-label="Elincou Diagnostics home"><img src="assets/Logo/Elincou%20Logo.png" alt="Elincou Diagnostics" width="126" height="43"></a>
+    <nav aria-label="Main navigation">
+      <a href="index.html#expertise">What We Do</a>
+      <a href="products.html" aria-current="page">Products <span class="nav-dot"></span></a>
+      <a href="index.html#values">Our Approach</a>
+      <a class="nav-contact" href="index.html#contact">Let’s Talk <svg><use href="#arrow"/></svg></a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="portfolio-hero" aria-labelledby="portfolio-title">
+      <div class="hero-copy">
+        <div class="eyebrow hero-eyebrow"><span class="status-dot"></span> THE ELINCOU PORTFOLIO</div>
+        <h1 id="portfolio-title">Precision starts<br>with the right<br><span>instrument.</span></h1>
+        <p>Behind every result, the right technology.<br>Find the solution that moves your laboratory forward.</p>
+        <a class="primary-button" href="#catalogue">Explore the portfolio <svg><use href="#arrow"/></svg></a>
+        <div class="hero-bottom"><span class="brand-rule"><i></i><i></i><i></i></span><span class="eyebrow">ADVANCING DIAGNOSTICS TOGETHER.</span></div>
+      </div>
+      <div class="instrument-stage" id="instrument-stage">
+        <div class="stage-top eyebrow"><span>IN FOCUS / 01</span><span>HEMOSTASIS</span></div>
+        <div class="stage-grid" aria-hidden="true"></div>
+        <svg class="stage-globe" aria-hidden="true"><use href="#globe"/></svg>
+        <span class="stage-axis stage-axis--x" aria-hidden="true"></span><span class="stage-axis stage-axis--y" aria-hidden="true"></span>
+        <span class="stage-mark stage-mark--a" aria-hidden="true">+</span><span class="stage-mark stage-mark--b" aria-hidden="true">+</span>
+        <img class="hero-instrument" src="https://static.wixstatic.com/media/2ea7da_ef10bd2cbabe46e2a7047d43e63bf514~mv2.webp" alt="Mindray CX-9000 Series coagulation analyser" fetchpriority="high" width="700" height="570">
+        <button class="featured-product" data-open-product="cx-9000-series"><span><small>MINDRAY</small><strong>CX-9000 Series</strong></span><span class="featured-arrow"><svg><use href="#arrow"/></svg></span></button>
+        <span class="stage-caption eyebrow">ENGINEERED FOR WHAT’S NEXT.</span>
+      </div>
+    </section>
+
+    <div class="portfolio-strip"><span><span class="strip-dot"></span> Technology with purpose.</span><span>8 DISCIPLINES <i>/</i> 34 INSTRUMENTS <i>/</i> ONE PARTNER</span><a href="index.html#contact">Specialist guidance <svg><use href="#arrow"/></svg></a></div>
+
+    <section class="catalogue" id="catalogue" aria-labelledby="catalogue-title">
+      <div class="catalogue-heading"><div><span class="eyebrow">(01) — FIND YOUR INSTRUMENT</span><h2 id="catalogue-title">Your laboratory.<br><span>Your next move.</span></h2></div><p>Explore by discipline. Refine by setup.<br>Compare your options, with clarity.</p></div>
+      <div class="catalogue-tools">
+        <label class="catalogue-search"><svg><use href="#search-icon"/></svg><span class="sr-only">Search instruments, manufacturers or categories</span><input id="product-search" type="search" placeholder="Search instruments, manufacturers or categories…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label>
+        <button class="mobile-filter-button" id="mobile-filter-button"><svg><use href="#filter-icon"/></svg>Filters <span id="mobile-filter-count"></span></button>
+        <label class="sort-label"><span>Sort by</span><select id="product-sort"><option value="featured">Featured</option><option value="az">Name: A–Z</option><option value="za">Name: Z–A</option><option value="category">Discipline</option><option value="manufacturer">Manufacturer</option></select></label>
+      </div>
+      <div class="catalogue-layout">
+        <aside class="filter-sidebar" aria-label="Product filters"><div id="filter-controls">
+          <div class="filter-heading"><h3>Refine your search</h3><button id="reset-filters" class="text-button">Reset</button></div>
+          <fieldset><legend>DISCIPLINE</legend><div id="category-filters"></div></fieldset>
+          <fieldset><legend>INSTALLATION TYPE</legend><div id="installation-filters"></div></fieldset>
+          <div class="filter-help"><svg aria-hidden="true"><use href="#globe"/></svg><h4>A little guidance<br>goes a long way.</h4><p>Let’s find the right fit for your laboratory.</p><a href="index.html#contact">Talk to a specialist <svg><use href="#arrow"/></svg></a></div>
+        </div></aside>
+        <div class="catalogue-results">
+          <div class="results-bar"><p id="results-count" role="status" aria-live="polite">Loading instruments…</p><span class="compare-hint">Select up to 3 to compare <span aria-hidden="true">↗</span></span></div>
+          <div id="active-filters" class="active-filters" aria-label="Active filters"></div>
+          <div class="product-grid" id="product-grid" aria-busy="true"></div>
+          <div id="empty-state" class="empty-state" hidden><span class="empty-symbol" aria-hidden="true">Ø</span><h3>No instruments found.</h3><p>Try a broader search or remove a filter to explore more options.</p><button class="primary-button" id="empty-reset">Reset all filters <svg><use href="#arrow"/></svg></button></div>
+          <div id="load-error" class="empty-state" hidden><h3>The portfolio couldn’t load.</h3><p>Please refresh the page or try again in a moment.</p><button class="primary-button" id="reload-products">Try again <svg><use href="#arrow"/></svg></button></div>
+          <noscript><p>Please enable JavaScript to search and filter the product portfolio.</p></noscript>
+          <div class="catalogue-end"><span class="brand-rule"><i></i><i></i><i></i></span><span class="eyebrow">THE RIGHT TECHNOLOGY. THE RIGHT PARTNER.</span><a href="#catalogue" aria-label="Back to catalogue top">↑</a></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="portfolio-cta"><div><span class="eyebrow">(02) — LET’S FIND YOUR FIT</span><h2>The instrument is<br>just the beginning<span>.</span></h2><p>Technology, guidance and a partner who understands your laboratory.<br>Let’s take the next step together.</p><a class="primary-button primary-button--light" href="index.html#contact">Start a conversation <svg><use href="#arrow"/></svg></a></div><svg aria-hidden="true"><use href="#globe"/></svg></section>
+  </main>
+  <footer class="catalog-footer"><a href="index.html"><img src="assets/Logo/Elincou%20Logo.png" alt="Elincou Diagnostics" width="112" height="38"></a><span>Advancing diagnostics together.</span><small>© 2026 Elincou Diagnostics</small><a href="#portfolio-title">Back to top ↑</a></footer>
+
+  <div class="compare-tray" id="compare-tray" hidden><div><span class="eyebrow">YOUR COMPARISON</span><p id="compare-summary"></p></div><div id="compare-thumbnails"></div><button class="text-button" id="clear-compare">Clear</button><button class="primary-button" id="open-compare">Compare <span id="compare-count">0</span><svg><use href="#arrow"/></svg></button></div>
+  <p class="sr-only" id="compare-status" role="status" aria-live="polite"></p>
+  <dialog id="product-dialog" class="product-dialog" aria-labelledby="dialog-title"><button class="dialog-close" aria-label="Close product details"><svg><use href="#cross"/></svg></button><div id="product-detail"></div></dialog>
+  <dialog id="compare-dialog" class="compare-dialog" aria-labelledby="compare-title"><button class="dialog-close" aria-label="Close comparison"><svg><use href="#cross"/></svg></button><span class="eyebrow">SIDE BY SIDE</span><h2 id="compare-title">Clarity in comparison<span>.</span></h2><p class="comparison-intro">Explore the differences. Find what fits your laboratory.</p><div id="comparison-table"></div><a class="primary-button" id="compare-enquiry" href="index.html#contact">Discuss these instruments <svg><use href="#arrow"/></svg></a></dialog>
+  <dialog id="filter-dialog" class="filter-dialog" aria-labelledby="mobile-filter-title"><div class="mobile-filter-heading"><h2 id="mobile-filter-title">Filters</h2><button class="dialog-close" aria-label="Close filters"><svg><use href="#cross"/></svg></button></div><div id="mobile-filter-mount"></div><button id="apply-mobile-filters" class="primary-button">Show instruments <svg><use href="#arrow"/></svg></button></dialog>
+</body>
+</html>

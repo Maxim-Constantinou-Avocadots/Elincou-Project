@@ -1,0 +1,690 @@
+[
+  {
+    "title": "BC-5150",
+    "slug": "bc-5150",
+    "wordpressId": 705,
+    "sourceUrl": "https://www.elincou.com/products/bc-5150/",
+    "description": "<p>Innovative, compact, cost-efficient analyzer along with user-friendly software for<strong> CBC + 5</strong> part results. An accurate and efficient solution for labs.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/5-part-differential-analyzers/bc-5150",
+    "extraInformation": "<p>Requires only 3 reagents, 2 of which are stored inside the analyzer, thus making it more compact and cost-efficient. Also, the BC-5150 supports bi-directional LIS with test results and patient information. Furthermore, it inherits its convenient and proven, powerful software design with an intuitive interface from the BC-6800 platform.</p>",
+    "specifications": "<ul>\n<li>10.4” TFT Touch screen w/ wide viewing angle</li>\n<li>25 reportable parameters + 12 research parameters</li>\n<li>3 Histograms (WBC, RBC, PLT)</li>\n<li>3 Scattergrams (DIFF*3)</li>\n<li>Sample Volume</li>\n<li>Whole Blood 15μL</li>\n<li>Capillary Whole Blood 15μL</li>\n<li>Prediluted 20μL</li>\n<li>60 samples/hour.</li>\n<li>Dimensions: (DxWxH) 400 x 320 x 410 mm</li>\n<li>Weight: 24kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_15b6395aebe440bd98f7acdcdc11965a~mv2.webp",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BC-700 Series",
+    "slug": "bc-700-series",
+    "wordpressId": 715,
+    "sourceUrl": "https://www.elincou.com/products/bc-700-series/",
+    "description": "<p>Accurate, Automatic analyzer with integrated <strong>CBC + ESR detection.</strong> Proprietary <strong>SF Cube®</strong> technology for more refined and reliable cell differentiation. Compatible with<strong> LabXpert®</strong> software.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/5-part-differential-analyzers/bc-700-series",
+    "extraInformation": "<p>Performs, without any additional cost, NRBC in every test to ensure the reliability and accuracy of WBC result and help diagnosis for anemia and optical PLT-H in every CD mode to help remove the interference of fragmented RBC/microcyte RBC/large PLT during PLT counting. Also performs CBC + ESR combined examination, using only one tube of blood sample, to provide an efficient and convenient tool for inflammation diagnosis.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "",
+    "seriesTable": "<table>\n<tbody>\n<tr>\n<td class=\"logo-cell\"><img src=\"https://static.wixstatic.com/media/2ea7da_ae21129ee76342d2a4feb98f0f18d254~mv2.png\" alt=\"Mindray Logo\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_6a9ea88afdf34524a746ef83b139e8d2~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_6a9ea88afdf34524a746ef83b139e8d2~mv2.webp\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_3230d4c6e01a4a0fb008877f0b22e6c1~mv2.webp\" alt=\"BC-760\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_3230d4c6e01a4a0fb008877f0b22e6c1~mv2.webp\" alt=\"BC-780\" /></td>\n</tr>\n<tr>\n<td>Model</td>\n<td>BC-700</td>\n<td>BC-720</td>\n<td>BC-760</td>\n<td>BC-780</td>\n</tr>\n<tr>\n<td>Reportable Parameters<br />\n(Whole Blood / Body Fluids)</td>\n<td>34 / 7</td>\n<td>41 / 7</td>\n<td>34 / 7</td>\n<td>41 / 7</td>\n</tr>\n<tr>\n<td>Research Parameters<br />\n(Whole Blood / Body Fluids)</td>\n<td>54 / 11</td>\n<td>68 / 11</td>\n<td>54 / 11</td>\n<td>68 / 11</td>\n</tr>\n<tr>\n<td>Histograms</td>\n<td>4 (PLT, RBC, PLT-H, WBC)</td>\n<td>4 (PLT, RBC, PLT-H, WBC)</td>\n<td>4 (PLT, RBC, PLT-H, WBC)</td>\n<td>4 (PLT, RBC, PLT-H, WBC)</td>\n</tr>\n<tr>\n<td>Scattergrams</td>\n<td>4 (DIFF*3, PLT-H)</td>\n<td>7 (DIFF*3, RET*2,PLT-O, PLT-H)</td>\n<td>4 (DIFF*3, PLT-H)</td>\n<td>7 (DIFF*3, RET*2,PLT-O, PLT-H)</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nWhole Blood CBC (μL)</td>\n<td>23</td>\n<td>23</td>\n<td>25</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nWhole Blood CBC + ESR (μL)</td>\n<td>160</td>\n<td>160</td>\n<td>160</td>\n<td>160</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nPrediluted (μL)</td>\n<td>20</td>\n<td>20</td>\n<td>20</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Throughput CD<br />\n(samples/hour)</td>\n<td>80</td>\n<td>80</td>\n<td>80</td>\n<td>80</td>\n</tr>\n<tr>\n<td>Throughput CD + RET<br />\n(samples/hour)</td>\n<td>45</td>\n<td class=\"highlight\">45†</td>\n<td>45</td>\n<td>45</td>\n</tr>\n<tr>\n<td>Throughput CD + ESR<br />\n(samples/hour)</td>\n<td>40</td>\n<td>40</td>\n<td>40</td>\n<td>40</td>\n</tr>\n<tr>\n<td>Autoloader</td>\n<td>No</td>\n<td>No</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Dimensions DxWxH (mm)</td>\n<td>500 x 325 x 450</td>\n<td>500 x 325 x 450</td>\n<td>840 x 655 x 600</td>\n<td>840 x 655 x 600</td>\n</tr>\n<tr>\n<td>Weight (kg)</td>\n<td>≤35</td>\n<td>≤35</td>\n<td>≤70.6</td>\n<td>≤70.6</td>\n</tr>\n</tbody>\n</table>",
+    "image": "https://static.wixstatic.com/media/2ea7da_bf90154e6f0b4da9a1808b3e08a5ad41~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_97835b85d56b4ac3abf7476653d1c48a~mv2.webp",
+    "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
+    "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BC-6000",
+    "slug": "bc-6000",
+    "wordpressId": 716,
+    "sourceUrl": "https://www.elincou.com/products/bc-6000/",
+    "description": "<p>Compact, affordable <strong>6-part</strong> differential analyzer with enhanced flagging efficiency, reducing the need for manual microscopic examination. Proprietary <strong>SF Cube®</strong> technology for more refined and reliable cell differentiation. Compatible with <strong>LabXpert®</strong> software.</p>",
+    "categories": [],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/5-part-differential-analyzers/bc-6000",
+    "extraInformation": "<p>Measures in routine CBC, the actual number of nucleated red blood cells (NRBCs), if they are present in the sample, without any additional reagents or extra costs. The analyzer also automatically calculates the neutrophil-to-lymphocyte ratio (NLR) parameter in each CBC + DIFF. Apart from the 5-part, it also introduces InR (information about malaria) as a parameter to test for malaria, hence the 6-part terminology that is often used.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "<ul>\n<li>29 reportable parameters + 20 research parameters (whole blood)</li>\n<li>7 reportable parameters + 11 research parameters (body fluids)</li>\n<li>2 Histograms for RBC, PLT</li>\n<li>3D Scattergrams: 2 (DIFF, WNB)</li>\n<li>Sample Volume\n<ul>\n<li>Whole Blood (Autoloader, Closed Tube) 80μL</li>\n<li>Capillary Blood (Closed Tube) 35μL</li>\n<li>Prediluted (Closed Tube) 20μL</li>\n<li>Body Fluid (Closed Tube) 85μL</li>\n</ul>\n</li>\n<li>Throughput\n<ul>\n<li>Up to 110 samples/hour (CBC + DIFF)</li>\n<li>Up to 40 samples/hour (Body fluid)</li>\n</ul>\n</li>\n<li>Dimensions: (DxWxH) 826 x 672 x 695 mm</li>\n<li>2D Scattergrams: 2 (DIFF, WNB)</li>\n<li>Weight: 87.5kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_bfc36fc779554ce7b4707f1c108e66ff~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_043c6f2c8b604016bba42944d62a5534~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YQhz7jxorMg&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BC-6200",
+    "slug": "bc-6200",
+    "wordpressId": 717,
+    "sourceUrl": "https://www.elincou.com/products/bc-6200/",
+    "description": "<p><strong>RET-capable,</strong> compact, high-performance, and affordable <strong>6-part</strong> differential analyzer with advanced flagging efficiency, minimizing manual review. Proprietary <strong>SF Cube®</strong> technology for precise and reliable cell differentiation, with added reticulocyte analysis for deeper hematology insights. Compatible with <strong>LabXpert® </strong>software.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/5-part-differential-analyzers/bc-6200",
+    "extraInformation": "<p>Measures in routine CBC, the actual number of nucleated red blood cells (NRBCs), if they are present in the sample, without any additional reagents or extra costs. The analyzer also automatically calculates the neutrophil-to-lymphocyte ratio (NLR) parameter in each CBC + DIFF. Apart from the 5-part, it also introduces InR (information about malaria) as a parameter to test for malaria, hence the 6-part terminology that is often used. What sets the BC-6200 apart is its RET (reticulocyte) analysis, which makes it especially valuable for anemia diagnosis, monitoring bone marrow response, and guiding treatment decisions.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "<ul>\n<li>37 reportable parameters + 29 research parameters (whole blood)</li>\n<li>7 reportable parameters + 11 research parameters (body fluids)</li>\n<li>2 Histograms for RBC, PLT</li>\n<li>3D Scattergrams: 3 (DIFF, WNB, RET)</li>\n<li>Sample Volume\n<ul>\n<li>Whole Blood (Autoloader, Closed Tube) 80μL</li>\n<li>Capillary Blood (Closed Tube) 35μL</li>\n<li>Prediluted (Closed Tube) 20μL</li>\n<li>Body Fluid (Closed Tube) 85μL</li>\n</ul>\n</li>\n<li>Throughput\n<ul>\n<li>Up to 110 samples/hour (CBC + DIFF)</li>\n<li>Up to 65 samples/hour (RET)</li>\n<li>Up to 40 samples/hour (Body fluid)</li>\n</ul>\n</li>\n<li>2D Scattergrams: 5 (DIFF, WNB, RET, RET-EXT, PLT-O)</li>\n<li>Dimensions: (DxWxH) 826 x 672 x 695 mm</li>\n<li>Weight: 87.5kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_0780804789a74a5b8f90e0783ed6d3e6~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_caaa228af1ba43bda7c8ffa15ec38224~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YQhz7jxorMg",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BC-7600 Series",
+    "slug": "bc-7600-series",
+    "wordpressId": 719,
+    "sourceUrl": "https://www.elincou.com/products/bc-7600-series/",
+    "description": "<p>Accurate, cost-effective, automatic 5-part hematology analyzers with additional Hematological Malignancy Channel (HMC) and disease-related flags to assist clinical screening, along with high-precision body fluid analysis. Proprietary SF Cube® technology for more refined and reliable cell differentiation. Compatible with <strong>LabXpert®</strong> software.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/5-part-differential-analyzers/bc-7600-series",
+    "extraInformation": "<p>Performs PLT-H and PLT-O in every CD mode to help remove the interference of fragmented RBC/microcyte RBC/large PLT during PLT counting. What distinguishes the BC-7600 Series is its advanced diagnostic capabilities; beyond the traditional Mindray disease-related flags that assist clinical screening, this series offers additional flagging for the detection of Infectious Mononucleosis (IM). Moreover, during general CBC counting, the system conducts Hematological Malignant Cell screening, enabling early identification of abnormal promyelocytes that may appear in the peripheral blood of patients with acute promyelocytic leukemia (APL). These analyzers are also adapted for use in Blood Banks, offering dedicated Blood Bank modes.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "",
+    "seriesTable": "<table>\n<tbody>\n<tr>\n<td class=\"logo-cell\"><img src=\"https://static.wixstatic.com/media/2ea7da_74c83c97d973474d8a307bff45baa796~mv2.webp\" alt=\"Mindray Logo\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_c828c7e1dacd4f91b45f416d6edc2823~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_c828c7e1dacd4f91b45f416d6edc2823~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_c828c7e1dacd4f91b45f416d6edc2823~mv2.webp\" alt=\"BC-700\" /></td>\n</tr>\n<tr>\n<td>Model</td>\n<td>BC-7600</td>\n<td>BC-7800</td>\n<td>BC-7900</td>\n</tr>\n<tr>\n<td>Reportable<br />\nParameters (Whole<br />\nBlood / Body Fluids)</td>\n<td>37/7</td>\n<td>54/7</td>\n<td>37/7</td>\n</tr>\n<tr>\n<td>Research<br />\nParameters (Whole<br />\nBlood / Body Fluids)</td>\n<td>59/11</td>\n<td>77/30</td>\n<td>60/11</td>\n</tr>\n<tr>\n<td>Blood Bank<br />\nParameters<br />\n(Reportable /<br />\nResearch Use Only)</td>\n<td>6/12</td>\n<td>6/12</td>\n<td>6/12</td>\n</tr>\n<tr>\n<td>Histograms</td>\n<td>3 (RBC, PLT, PPLT-H)</td>\n<td>3 (RBC, PLT, PPLT-H)</td>\n<td>3 (RBC, PLT, PPLT-H)</td>\n</tr>\n<tr>\n<td>Scattergrams 2D</td>\n<td>4 (DIFF, DIFF-EXT,<br />\nWNB, PLT-H)</td>\n<td>9 (DIFF, DIFF-EXT,<br />\nWNB, PLT-H, RET,<br />\nPLT-O, RET-EXT,<br />\nRBC, RBC VHF)</td>\n<td>5 (DIFF, DIFF-EXT,<br />\nWNB, PLT-H, HMC)</td>\n</tr>\n<tr>\n<td>Scattergrams 3D</td>\n<td>3 (DIFF, WNB, PLT-<br />\nH)</td>\n<td>5 (DIFF, WNB, PLT-<br />\nH, RET, RBC VHF)</td>\n<td>4 (DIFF, WNB, PLT-<br />\nH, HMC)</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nWhole Blood C<br />\n(µL)</td>\n<td>85</td>\n<td>85</td>\n<td>85</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nWhole Blood CBC +<br />\nESR (µL)</td>\n<td>140</td>\n<td>140</td>\n<td>140</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nPrediluted (µL)</td>\n<td>20</td>\n<td>20</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Maximum<br />\nThroughput<br />\n(samples/hour)</td>\n<td>110</td>\n<td>110</td>\n<td>110</td>\n</tr>\n<tr>\n<td>Dimensions DxWxH<br />\n(mm)</td>\n<td>870 x 675 x 850</td>\n<td>870 x 675 x 850</td>\n<td>870 x 675 x 850</td>\n</tr>\n<tr>\n<td>Weight (kg)</td>\n<td>≤150 kg</td>\n<td>≤150 kg</td>\n<td>≤150kg</td>\n</tr>\n</tbody>\n</table>",
+    "image": "https://static.wixstatic.com/media/2ea7da_ada0ff95ba9242aba9ba131e9edbbdc7~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_946b415ad8064e9cbc821d80ebde1855~mv2.webp",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BC-6800 Plus",
+    "slug": "bc-6800-plus",
+    "wordpressId": 720,
+    "sourceUrl": "https://www.elincou.com/products/bc-6800-plus/",
+    "description": "<p>Highest-throughput hematology analyzer out there. Reliable routine CBC + 5-part DIFF results. Proprietary <strong>SF Cube®</strong> technology for more refined and reliable cell differentiation. As the flagship of hematology analyzers, it sets the benchmark for performance and innovation. Compatible with <strong>LabXpert®</strong> software.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/5-part-differential-analyzers/bc-6800-plus",
+    "extraInformation": "<p>The BC-6800 Plus delivers greater clinical value with higher flagging efficiency, helping reduce the need for microscopic examination. It supports CBC + ESR joint testing and provides NRBC, RET, and Body Fluid results in a high-speed system – all while maintaining cost-effectiveness. Designed to meet all the demands of modern laboratories, the BC-6800 Plus not only fulfills requirements but also exceeds expectations in terms of value, operational efficiency, and affordability.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "<ul>\n<li>54 reportable parameters + 53 research parameters (whole blood)</li>\n<li>7 reportable parameters + 11 research parameters (body fluids)</li>\n<li>3 Histograms for RBC, PLT, PLT-H</li>\n<li>3D Scattergrams: 5 (DIFF, WNB, RET, ERP, RBC VHF)</li>\n<li>Sample Volume\n<ul>\n<li>Whole Blood (Autoloader, Closed Tube) 190μL</li>\n<li>CD (Whole Blood Open Vial) 130μL</li>\n<li>Prediluted (Open Vial) 40μL</li>\n<li>Body Fluid (Open Vial) 130μL</li>\n</ul>\n</li>\n<li>Throughput\n<ul>\n<li>Up to 200 samples/hour (CBC + DIFF)</li>\n<li>Up to 120 samples/hour (CBC + DIFF + ESR)</li>\n<li>Up to 85 samples/hour (CBC + DIFF + RET + ESR)</li>\n<li>Up to 40 samples/hour (Body Fluid)</li>\n</ul>\n</li>\n<li>2D Scattergrams: 8 (DIFF, WNB, RET, RET-EXT, PLT-O, RBC SCT, RBC VHF, PLT-H)</li>\n<li>Dimensions: (DxWxH) 850 x 680 x 700 mm</li>\n<li>Weight: 125kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_a0bf8855e04641babd773bd9c5702fe3~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_54b7322903654c948943e4df59a0d8f9~mv2.png",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YQhz7jxorMg",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CAL-9000",
+    "slug": "cal-9000",
+    "wordpressId": 722,
+    "sourceUrl": "https://www.elincou.com/products/cal-9000/",
+    "description": "<p>Fully integrated solution that manages every step of the workflow – from the pre-analytical phase through to post-analytical processes. Proprietary <strong>SF Cube®</strong> technology featured on all analyzers included in the setup. Compatible with <strong>LabXpert®</strong> software.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Integrated"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/cellular-analysis-line/cal-9000",
+    "extraInformation": "<p>All-in-one solution for comprehensive cellular analysis, integrating advanced sample processing with hematology analysis featuring the full capabilities of the BC-7600 Series. It includes a fully automated slide maker and stainer, digital cell morphology powered by multi-layer fusion technology for superior imaging, and HbA1c testing using the gold-standard high-performance liquid chromatography (HPLC) method. Its modular design allows configuration to meet diverse workflow requirements, with the number of analyzer units tailored to specific needs. Additionally, flexible setup options enable easy adaptation to various room layouts, including space-constrained environments. This system drives precision, automation, and efficiency in a single platform.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "<ul>\n<li>Integrated display for continuous monitoring of equipment and reagent status</li>\n<li>Morphology capacity: up to 60 slides/hour</li>\n<li>Can process: up to 1000 tests/hour</li>\n<li>1050 Tube Slots</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_d829777c4c0e4a2bab16ac75a880aaed~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_72b1585baf2143e184d7af8ca7b10277~mv2.webp",
+    "videoExternalUrl": "https://mindray.scene7.com/is/content/mindray/cal-9000-product-video-1.0-en-0x720-2500k",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CAL-8000",
+    "slug": "cal-8000",
+    "wordpressId": 723,
+    "sourceUrl": "https://www.elincou.com/products/cal-8000/",
+    "description": "<p>Integrated solution that combines hematology analysis with automated slide preparation and staining in a single, streamlined workflow. Proprietary <strong>SF Cube®</strong> technology featured on all analyzers included in the setup. Compatible with <strong>LabXpert®</strong> software.</p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Integrated"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/cellular-analysis-line/cal-8000",
+    "extraInformation": "<p>All-in-one solution for comprehensive cellular analysis, integrating advanced sample processing with hematology analysis featuring the full capabilities of the BC-6800 Plus analyzer. The system also includes a fully automated slide maker and stainer for seamless workflow integration. Its modular design offers exceptional flexibility, allowing configurations tailored to diverse laboratory requirements, with the number of analyzer units customized to meet specific needs.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "<ul>\n<li>Hematology analysis: up to 500 tests/hour</li>\n<li>Staining capacity: up to 240 slides/hour</li>\n<li>Load area capacity: up to 200 sample tubes</li>\n<li>STAT position</li>\n<li>Special tube racks that differentiate specific testing purposes for the tubes in them, such as ‘QC’, ‘Slide making &amp; staining only’, and ‘RET’.</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_df6f9a5477e34a3e915fceeabc775a63~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_0a2f47803c144a4aa1e16b4b073e920b~mv2.webp",
+    "youtubeUrl": "youtube.com/watch?v=sddi07SQFN4&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CL-960i",
+    "slug": "cl-960i",
+    "wordpressId": 724,
+    "sourceUrl": "https://www.elincou.com/products/cl-960i/",
+    "description": "<p>Compact, fully automated chemiluminescence immunoassay analyzer that combines a large capacity and fast assay speed into a small form factor, while ensuring minimal maintenance requirements.</p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/in/products/laboratory-diagnostics/chemiluminescence-immunoassay/small-test-volume/cl-960i/",
+    "extraInformation": "<p>Performs routine immunoassay tests with high sensitivity using enhanced ALP-AMPPD chemiluminescence technology and magnetic particle separation, without requiring additional infrastructure or complex setup. The analyzer delivers up to 180 tests per hour and supports continuous loading for true walk-away operation. Beyond its broad test menu – including thyroid, fertility, tumor markers, cardiac, diabetes, and infectious disease panels – it ensures long calibration stability of 28 days and cost-effective operation with ready-to-use reagents. What sets the CL-960i apart is its compact design combined with premium performance, making it an ideal solution for labs seeking speed, accuracy, and efficiency without sacrificing space or budget.</p>",
+    "specifications": "<ul>\n<li>Throughput: up to 180 tests/hour</li>\n<li>50 Sample positions</li>\n<li>15 Reagent positions w/ continuous loading capability</li>\n<li>Sample volume: 15 – 200μL</li>\n<li>Reagent packs: 2 x 50 tests (100 tests total) or 2 x 100 tests (200 tests total)</li>\n<li>Continuous reagent cooling system (2-8°C)</li>\n<li>Dimensions: (DxWxH) 740 x 860 x 560 mm</li>\n<li>Weight: 132kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_be8f65344b4d45b68eb6403940d9fa61~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_d5408662c34e4855a32657823e62f9a9~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?time_continue=6&amp;v=_tPWnOSsKDU&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CL-2600i",
+    "slug": "cl-2600i",
+    "wordpressId": 725,
+    "sourceUrl": "https://www.elincou.com/products/cl-2600i/",
+    "description": "<p>Worry-free, user-friendly, fully automated chemiluminescence immunoassay analyzer that can be integrated with a biochemistry analyzer, and is free of daily maintenance.</p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemiluminescence-immunoassay/medium-test-volume/cl-2600i",
+    "extraInformation": "<p>Proprietary FS-Sampling® (Full Scene Sampling) technology leverages databases and advanced algorithms to identify anomalies detected by the probe – such as reagent bubbles or clots – ensuring accurate sample collection <strong>without needle extraction and maintaining smooth, uninterrupted operation.</strong> Additionally, the probe is inserted in a special chamber that delivers a 360° waterfall vacuum wash combined with an enhanced Alkaline wash, effectively eliminating carry-over to less than 0.1 ppm. Moreover, the system applies ultrasonic energy to break fibrin in the sample. Continuous loading support allows for true walk-away operation.</p>",
+    "specifications": "<ul>\n<li>Throughput: up to 240 tests/hour</li>\n<li>70 Sample positions (on racks)</li>\n<li>25 Reagent positions</li>\n<li>Walk-away time: 5 hours</li>\n<li>Reagent packs: 2 x 50 tests (100 tests total) or 2 x 100 tests (200 tests total)</li>\n<li>Enhanced washing</li>\n<li>Continuous reagent cooling system (2-8°C)</li>\n<li>Footprint: &lt;1m2</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_22fc83e84273414b80e96dfdc002eecb~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_cbcc319a13f74e5f9066f98e36551d8d~mv2.webp",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CL-2000i",
+    "slug": "cl-2000i",
+    "wordpressId": 726,
+    "sourceUrl": "https://www.elincou.com/products/cl-2000i/",
+    "description": "<p>Scalable, high-throughput, fully automated chemiluminescence immunoassay analyzer that is easy to operate and integrates with a biochemistry analyzer.</p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemiluminescence-immunoassay/medium-test-volume/cl-2000i",
+    "extraInformation": "<p>Equipped with an efficient washing system that cleans the probe’s interior and exterior using preheated, high-pressure water to reduce carryover. Moreover, it offers intelligent status indicators that streamline daily operations – covering cuvettes, waste, washer buffer, and substrate consumption. Additionally, it features a user-friendly interface with real-time QC status monitoring, comprehensive test result traceability, reflex and re-run functions, test summaries, and a step-by-step maintenance guide.</p>",
+    "specifications": "<ul>\n<li>Throughput: up to 240 tests/hour</li>\n<li>300 Sample positions (on racks)</li>\n<li>36 Reagent positions</li>\n<li>Automatic scanning of reagents, samples, QC barcodes</li>\n<li>Reagent packs: 2 x 50 tests (100 tests total) or 2 x 100 tests (200 tests total)</li>\n<li>Continuous reagent cooling system (2-8°C)</li>\n<li>Dimensions: (DxWxH) 1020 x 2150 x 1200 mm (incl. main unit + SDM)</li>\n<li>Weight: 550kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_950068a7a1834a73b89911fc15bc362e~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_4f54978322bc44af80c4832ba21a7e74~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=K7Yn-hgBeYI",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "Cl-8000i",
+    "slug": "cl-8000i",
+    "wordpressId": 727,
+    "sourceUrl": "https://www.elincou.com/products/cl-8000i/",
+    "description": "<p>Massive throughput, intelligent, fully automated chemiluminescence immunoassay analyzer that maximizes efficiency and productivity. Offers various setup options, including the option to be integrated with a biochemistry analyzer. Requires no daily maintenance.</p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemiluminescence-immunoassay/large-test-volume/cl-8000i",
+    "extraInformation": "<p>Achieve exceptional efficiency with an impressive throughput of up to 500 tests/hour. The system incorporates built-in intelligence to help predict reagents and consumables, helping optimize workflows and minimize interruptions – all with the user experience in mind. Proprietary FS-Sampling® (Full Scene Sampling) technology harnesses advanced algorithms and comprehensive databases to detect anomalies such as reagent bubbles and clots. This ensures precise sample collection without needle extraction, maintaining smooth and uninterrupted operation. Additionally, the probe is inserted in a special chamber that delivers a 360° waterfall vacuum wash</p>\n<p>combined with an enhanced Alkaline wash, effectively eliminating carry-over. For maximum convenience, the system supports continuous loading for true walk-away operation, while a dedicated priority channel ensures urgent samples are processed without delay. Patented lock-screen design allows real-time monitoring of analyzer operation.</p>",
+    "specifications": "<ul>\n<li>Throughput: up to 500 tests/hour</li>\n<li>600 Sample positions</li>\n<li>36 Reagent positions</li>\n<li>Sample volume: 10-200μL</li>\n<li>Reagent packs: 2 x 50 tests (100 tests total) or 2 x 100 tests (200 tests total)</li>\n<li>Continuous reagent cooling system (2-8°C)</li>\n<li>Reddot winner 2021 &amp; IF Design Award 2021</li>\n<li>Dimensions: (DxWxH) 1150 x 1455 x 1180 mm (w/o SDM module)</li>\n<li>Weight: 789kg</li>\n<li>Setups: 1 x CL-8000i, 2 x CL-8000i, 1 x CL-8000i + 1 x BS-2800M</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_cd1c7d3d402448febde3e37e573b656c~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_a9e37991498f491d95ef95daea298249~mv2.webp",
+    "videoExternalUrl": "https://mindray.scene7.com/is/content/mindray/cl-8000i-product-video-1.0-en_x264-0x720-2500k",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BS-240/BS-240Pro",
+    "slug": "bs-240-bs-240pro",
+    "wordpressId": 728,
+    "sourceUrl": "https://www.elincou.com/products/bs-240-bs-240pro/",
+    "description": "<p>Compact, efficient, versatile benchtop chemistry analyzer, featuring advanced features and capabilities that set it apart from comparable products.</p>",
+    "categories": [
+      "Biochemistry"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemistry/small-test-volume/bs-240pro",
+    "extraInformation": "<p>The analyzer incorporates cutting-edge technology for superior performance. Its smart-sampling technology automates hemolysate preparation for HbA1c testing, while pretreatment-free operation maximizes productivity. A built-in step-by-step maintenance guide ensures effortless use, and the advanced auto-washing system minimizes carryover and reduces water consumption. Despite its compact design, the analyzer delivers impressive throughput. Additionally, the BS-240Pro is equipped with an intelligent probe offering optional clog detection for enhanced reliability.</p>",
+    "specifications": "",
+    "seriesTable": "<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<td class=\"logo-cell\"><img src=\"https://static.wixstatic.com/media/2ea7da_74c83c97d973474d8a307bff45baa796~mv2.webp\" alt=\"Mindray Logo\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_019165506bd2459f8c2ca380f0b1c0ef~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_d444f8478ea04aa78db0ff83291bae57~mv2.webp\" alt=\"BC-700\" /></td>\n</tr>\n<tr>\n<td>Model</td>\n<td>BS-240</td>\n<td>BS-240Pro</td>\n</tr>\n<tr>\n<td>Throughput</td>\n<td>Up to 200 tests/hour</td>\n<td>Up to 360 tests/hour</td>\n</tr>\n<tr>\n<td>Sample positions</td>\n<td>Up to 80</td>\n<td>Up to 100</td>\n</tr>\n<tr>\n<td>Reagent Positions</td>\n<td>Up to 80</td>\n<td>Up to 100</td>\n</tr>\n<tr>\n<td>Refrigerated<br />\ncompartment 24h</td>\n<td>2-12°C</td>\n<td></td>\n</tr>\n<tr>\n<td>Sample volume (µL)</td>\n<td>2-45</td>\n<td>2-35</td>\n</tr>\n<tr>\n<td>Wavelengths</td>\n<td>8</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Water consumption<br />\n(L/H)</td>\n<td>≤4</td>\n<td>≤6.5</td>\n</tr>\n<tr>\n<td>Dimensions DxWxH (mm)</td>\n<td>580 x 690 x 595</td>\n<td>660 x 860 x 550</td>\n</tr>\n<tr>\n<td>Weight (kg)</td>\n<td>79</td>\n<td>115 ± 15</td>\n</tr>\n</tbody>\n</table>",
+    "image": "https://static.wixstatic.com/media/2ea7da_b87aad2a5f6e4bc3847149f84340df49~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_eb06db197bfa4190beac95e457127af9~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ksCjG_4MXUE",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BS-430",
+    "slug": "bs-430",
+    "wordpressId": 729,
+    "sourceUrl": "https://www.elincou.com/products/bs-430/",
+    "description": "<p>Reliable, cost-efficient chemistry analyzer that offers high accuracy and stability, and smart features that enhance productivity and ease-of-use.</p>",
+    "categories": [
+      "Biochemistry"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemistry/medium-test-volume/bs-430",
+    "extraInformation": "<p>The system delivers highly accurate and traceable results, supported by an advanced optical grating system and tungsten halogen lamp with a 2,000-hour lifespan – ensuring exceptional reliability, accuracy, and stability. Designed for cost efficiency, it requires minimal reagent volume per test and features a dry bath for reduced maintenance. Additional capabilities include onboard auto-hemolysis for HbA1c, automatic rerun, intelligent carryover management, and enzyme linearity extension to minimize false negatives and accelerate turnaround time. Furthermore, the analyzer integrates HbA1c smart-sampling technology, enabling automatic hemolysate preparation for whole blood samples. This not only shortens turnaround time but also eliminates biohazard risks and manual handling errors.</p>",
+    "specifications": "<ul>\n<li>Throughput: 420 photometric tests/hour, up to 626 tests/hour w/ ISE</li>\n<li>Wavelengths: 12</li>\n<li>Sample positions: 120</li>\n<li>Reagent positions: 92</li>\n<li>Continuous reagent cooling system (2-8°C)</li>\n<li>Sample volume: 1.5-45μL</li>\n<li>Carry-over: ≤0.05μL</li>\n<li>Water Consumption: ≤20L/H</li>\n<li>Dimensions: (DxWxH) 720 x 1050 x 1150 mm</li>\n<li>Weight: ≤200kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_2b112cf78bf44e4fb018b136565a36d1~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_f5faec13f3a04b64851508bb2a308fb3~mv2.webp",
+    "youtubeUrl": "youtube.com/watch?v=TRkIiFPVo7s&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "M680",
+    "slug": "m680",
+    "wordpressId": 730,
+    "sourceUrl": "https://www.elincou.com/products/m680/",
+    "description": "<p>Reliable, robust, and fully integrated chemistry and immunoassay solution, engineered to boost workflow efficiency while minimizing maintenance needs and reducing service costs.</p>",
+    "categories": [
+      "Biochemistry"
+    ],
+    "installationTypes": [
+      "Integrated"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemistry/large-test-volume/m680",
+    "extraInformation": "<p>Occupying just 2.2 m2, the system integrates chemistry, immunoassay, ISE, and whole-blood HbA1c testing in one compact platform. It offers flexible management with continuous rack loading and STAT priority for urgent samples. For HbA1c, onboard hemolysis of whole blood enhances workflow</p>\n<p>efficiency, eliminating manual pretreatment to reduce biohazard risks and human error. With a throughput of 120 HbA1c tests per hour, turnaround time is significantly shortened, and all results are traceable to IFCC/NGSP standards. Accuracy is reinforced by the <strong>PDR Optical Platform®</strong>, delivering panoramic, real-time monitoring and signal traceback to eliminate interference and noise during reactions for consistently precise results. The user-friendly design requires no daily maintenance and features an intelligent interface and breathing LED indicators. High-level Sigma metric performance ensures laboratories deliver superior quality results at reduced cost, enhancing clinical confidence and satisfaction. Proprietary <strong>FS-Sampling®</strong> (Full Scene Sampling) technology identifies sample containers using advanced databases and algorithms, improving aspiration accuracy. Finally, the probe is inserted into a dedicated chamber, receiving 360° waterfall vacuum washing and enhanced cleaning to reduce carryover to less than 0.1 ppm.</p>",
+    "specifications": "<ul>\n<li>Chemistry Throughput: 600 photometric tests/hour, up to 800 tests/hour w/ ISE</li>\n<li>Immunoassay Throughput: Up to 240 tests/hour</li>\n<li>STAT: 40 positions</li>\n<li>Footprint: 2.2m2</li>\n<li>Dimensions: (DxWxH) ≤880 x 2500 x 1230 mm</li>\n<li>Weight: 670kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_d063f3d292b74f37add601fa5e6d4544~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_4cd0bab287fd4711b43eea24a26ce177~mv2.webp",
+    "videoExternalUrl": "https://mindray.scene7.com/is/content/mindray/m680-product-video-en-0x720-3000k",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "EU 5600 Pro/5300 Pro",
+    "slug": "eu-5600-pro-5300-pro",
+    "wordpressId": 731,
+    "sourceUrl": "https://www.elincou.com/products/eu-5600-pro-5300-pro/",
+    "description": "<p>Precise, advanced, and automated urinalysis system designed to maximize efficiency while virtually eliminating the need for manual microscopic review. Compatible with <strong>LabXpert®</strong> software.</p>",
+    "categories": [
+      "Urinalysis"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/urinalysis/urinalysis-automation-line/eu-5600-pro-eu-5300-pro",
+    "extraInformation": "<p>The system combines dry chemistry, automated formed element analysis, and RBC phase analysis to significantly enhance time and space management efficiency. Equipped with 2K full-color imaging that closely replicates manual microscopy, it enables report generation without the need for manual microscopic review of positive samples. Additionally, the system captures up to 60 high-resolution images from the sample and employs advanced algorithms to accurately identify various formed elements from panoramic views, reducing the risk of missed positive findings. It automatically provides detailed parameters for different urinary RBC types, including histograms that clearly illustrate cell size, shape, and hemoglobin content. By analyzing RBC morphological variations and leveraging high-quality images, the system supports rapid and precise identification of hematuria sources through a comprehensive review and validation process.</p>\n<p>Furthermore, it accommodates closed-tube urine sample processing, ensuring superior biosafety standards.</p>\n<p><strong>LabXpert® Software:</strong> streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "",
+    "seriesTable": "<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<td class=\"logo-cell\"><img src=\"https://static.wixstatic.com/media/2ea7da_ae21129ee76342d2a4feb98f0f18d254~mv2.png\" alt=\"Mindray Logo\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_d95586e6d45f449fa12684f425099272~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_d95586e6d45f449fa12684f425099272~mv2.webp\" /></td>\n</tr>\n<tr>\n<td>Model</td>\n<td>BS-5300 Pro</td>\n<td>BS-5600 Pro</td>\n</tr>\n<tr>\n<td>Throughput - Sediment</td>\n<td>≥70 tests/hour</td>\n<td>≥100 tests/hour</td>\n</tr>\n<tr>\n<td>Throughput - Dry<br />\nChemistry</td>\n<td>≥160 tests/hour</td>\n<td>≥160 tests/hour</td>\n</tr>\n<tr>\n<td>Throughput - Combined</td>\n<td>≥70 tests/hour</td>\n<td>≥100 tests/hour</td>\n</tr>\n<tr>\n<td>Sampling</td>\n<td>Autoloader (50 tubes)</td>\n<td>Autoloader (50 tubes)</td>\n</tr>\n<tr>\n<td>Minimum Sample<br />\nvolume (µL)</td>\n<td>2.5</td>\n<td>2.5</td>\n</tr>\n<tr>\n<td>Counting Channel</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Dry Chemistry strips</td>\n<td>11p, 14p</td>\n<td>11p, 14p</td>\n</tr>\n<tr>\n<td>Reportable parameters<br />\n(Physical)</td>\n<td>3</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Reportable parameters<br />\n(Sediment)</td>\n<td>31</td>\n<td>31</td>\n</tr>\n<tr>\n<td>RBC Phase parameters</td>\n<td>11</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Histograms</td>\n<td>3 (RBC size, RBC shape,<br />\nRBC chroma)</td>\n<td>3 (RBC size, RBC shape,<br />\nRBC chroma)</td>\n</tr>\n<tr>\n<td>Scattergrams</td>\n<td>2 (RBC size-RBC shape,<br />\nRBC size-RBC chroma)</td>\n<td>2 (RBC size-RBC shape,<br />\nRBC size-RBC chroma)</td>\n</tr>\n<tr>\n<td>Dimensions DxWxH<br />\n(mm)</td>\n<td>770 x 600 x 530</td>\n<td>770 x 600 x 530</td>\n</tr>\n<tr>\n<td>Weight (kg)</td>\n<td>≤71.5</td>\n<td>≤71.5</td>\n</tr>\n</tbody>\n</table>",
+    "image": "https://static.wixstatic.com/media/2ea7da_8083928c1cd74baca146db05de15c33d~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_f97e08dd7f154c48bbb27321d03d2686~mv2.webp",
+    "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/eu-5300-5600-pro-product-video-en.mp4",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "AP-100",
+    "slug": "ap-100",
+    "wordpressId": 733,
+    "sourceUrl": "https://www.elincou.com/products/ap-100/",
+    "description": "<p>Compact, Automated Dosing System, designed for accurate and safe dosing of Mindray ID/AST.</p>",
+    "categories": [
+      "Microbiology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en",
+    "extraInformation": "<p>Multi-location technology helps to reduce manual intervention and improve both accuracy and speed. The compact design allows for plate dosing in the biosafety cabinet, which ensures higher safety during operation.</p>",
+    "specifications": "<ul>\n<li>LED digital screen for displaying test card categories</li>\n<li>Sampling Range: TRD YEAST-96, TRD STAPH-96, TDR STR-96, TDR NF-96, TDR ONE-96, TDR NH-96</li>\n<li>Throughput: 30 test cards/hour</li>\n<li>Reproducibility: CV ≤ 5%</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_1f46f007586847f5b0b59904b5939420~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_592c1439a2524ae9a0645930aeb538a9~mv2.webp",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "TDR-Z200 Turbidimeter",
+    "slug": "tdr-z200-turbidimeter",
+    "wordpressId": 734,
+    "sourceUrl": "https://www.elincou.com/products/tdr-z200-turbidimeter/",
+    "description": "<p>User-friendly and accurate Turbidimeter.</p>",
+    "categories": [
+      "Microbiology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en",
+    "extraInformation": "<p>The TDR-Z200 Microbial Turbidimeter is designed for measuring bacterial concentration using infrared light scattering, featuring user-friendly operation and high accuracy.</p>",
+    "specifications": "<ul>\n<li>Measuring range: 0-6 MCF (0.5 MCF = 1.5 x 104 CFU/mL)</li>\n<li>Readout accuracy: 0.01 MCF</li>\n<li>Accuracy: Within ±0.1 MCF</li>\n<li>Repeatability: ≤5%</li>\n<li>Dimensions: (DxWxH) 240 x 96 x 78 mm</li>\n<li>Weight: 3kg</li>\n</ul>",
+    "seriesTable": "",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "AF-300",
+    "slug": "af-300",
+    "wordpressId": 735,
+    "sourceUrl": "https://www.elincou.com/products/af-300/",
+    "description": "<p>Accurate, automated identification and susceptibility testing system featuring comprehensive ID/AST panels, and an intelligent, streamlined workflow for maximum efficiency.</p>",
+    "categories": [
+      "Microbiology"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/microbiology/af-600-300",
+    "extraInformation": "<p>The system provides comprehensive morphology and culture analysis, along with pathogenicity and epidemiological data for common strains, helping laboratories verify the accuracy of identification results. It flags rare antimicrobial resistance, conflicting susceptibility results, and other phenotype- and treatment-related information based on CLSI/EUCAST standards and multiple clinical guidelines. Moreover, the system supports identification of more than 200 antimicrobials and can accommodate up to 32 specimens for simultaneous testing, with real-time inspection capability. During the test card detection process, features such as automatic dynamic interpretation, data collection, and self-inspection greatly optimize workflow efficiency. Data files in WHONET-approved format can be exported with a single click, eliminating the need for additional software conversion. The software also offers multi-dimensional statistical analysis, including bacterial detection rates, antibiotic resistance rates, resistance trends, multidrug resistance phenotypes, submission rates, workload, and more.</p>",
+    "specifications": "<ul>\n<li>Types of ID/AST combined panels: TRD YEAST-96, TRD STAPH-96, TDR STR-96, TDR NF-96, TDR ONE-96, TDR NH-96</li>\n<li>Records data: every 20 mins</li>\n<li>Wavelengths: 5</li>\n<li>Time to result: 4-24 Hours</li>\n<li>Capacity: 32 cards</li>\n<li>Dimensions: (DxWxH) 710 x 500 x 700 mm</li>\n<li>Weight: 60 ± 2kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_bc504cc49ccc4fe6862251605471fd3a~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_980a4d72ea2247a98c940e6dbd8cb817~mv2.webp",
+    "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/af-600-300-product-video.mp4",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CAL-6000",
+    "slug": "cal-6000",
+    "wordpressId": 939,
+    "sourceUrl": "https://www.elincou.com/products/cal-6000/",
+    "description": "<p>Integrated benchtop solution that combines hematology analysis with automated slide staining within a unified, seamless workflow. Proprietary <strong>SF Cube® </strong>technology featured on all analyzers included in the setup. Compatible with <strong>LabXpert® </strong>software. </p>\n\n\n\n<p></p>",
+    "categories": [
+      "Hematology"
+    ],
+    "installationTypes": [
+      "Integrated"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/hematology/cellular-analysis-line/cal-6000",
+    "extraInformation": "<p style=\"font-weight: 400\">Comprehensive cellular analysis solution that integrates sample processing with hematology analysis featuring all the capabilities of the BC‑6000/BC‑6200 analyzer. The setup also incorporates a fully automated slide stainer, enabling a smooth, efficient workflow from hematology analysis to slide preparation. The system can be configured with one or two hematology analyzers, allowing laboratories to scale throughput according to their workload.</p>\n<p style=\"font-weight: 400\"><strong>LabXpert® Software: </strong>streamlines laboratory workflows and optimizes data analysis with advanced features such as improved re-examination efficiency and auto-validation for normal samples. It also offers an intuitive interface for the review and validation of pathological samples, making complex processes simpler and more efficient.</p>",
+    "specifications": "<ul style=\"font-weight: 400\">\n<li>Hematology analysis: up to 220 tests/hour</li>\n</ul>\n<ul style=\"font-weight: 400\">\n<li>Staining capacity: up to 120 slides/hour</li>\n</ul>\n<ul style=\"font-weight: 400\">\n<li>STAT position</li>\n</ul>\n<ul style=\"font-weight: 400\">\n<li>Slide capacity: 180 slides</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_9832d63a1b764faba29c63f113f82add~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_0a2f47803c144a4aa1e16b4b073e920b~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=89bfSxnimiE",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "Chorus EVO",
+    "slug": "cal-6000-2",
+    "wordpressId": 951,
+    "sourceUrl": "https://www.elincou.com/products/cal-6000-2/",
+    "description": "<p>Fully automated, high-efficiency, random-access immunoassay analyzer featuring three advanced detection methods and a comprehensive test menu of more than 150 assays that cover a wide range of clinical areas. </p>\n\n\n\n<p></p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.diesse.it/en/products/chorus-evo/",
+    "extraInformation": "<p style=\"font-weight: 400\">Designed for high flexibility and efficiency, the system provides 48 sample positions and the capacity for 86 individual monotest reagents, ensuring maximum productivity. Its random-access capability streamlines laboratory workflow and reduces turnaround time.</p>\n<p style=\"font-weight: 400\">With ELISA, CLIA, and Macroarray technologies integrated into one platform, the analyzer easily performs multiple test methods simultaneously and supports comprehensive diagnostic profiles in a single run.</p>\n<p style=\"font-weight: 400\">Its extensive test menu covers a wide array of clinical specialties, including autoimmunity, infectious diseases, inflammatory markers, stool antigens, urinary antigens, biological drug monitoring, tumor markers, anemia, allergy, bone metabolism, and neurodegenerative diseases.</p>",
+    "specifications": "<ul>\n<li>Sample type: serum/stool/urine/csf</li>\n<li>STAT available</li>\n<li>Methods: ELISA, CLIA, Macroarray</li>\n<li>Sample Capacity: 48</li>\n<li>Reagent Capacity: 86 monotests</li>\n<li>Dimensions: (DxWxH) 840 x 940 x 760 mm</li>\n<li>Weight: 120kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_ecfd8766dd7243879c48d88ad88935d7~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_7b83ab33bf1d4f93bf4ae5a259f8f588~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9Y_lBdMms1U",
+    "manufacturer": "DIESSE"
+  },
+  {
+    "title": "Chorus TRIO",
+    "slug": "chorus-trio",
+    "wordpressId": 955,
+    "sourceUrl": "https://www.elincou.com/products/chorus-trio/",
+    "description": "<p>High-performance, efficient, and flexible ELISA immunoassay analyzer that requires minimal manual intervention, ensuring safe and intuitive operation. Extensive test menu spans a wide range of clinical areas.  </p>\n\n\n\n<p></p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.diesse.it/en/products/chorustrio/#prodotto_dettaglio_accessori",
+    "extraInformation": "<p style=\"font-weight: 400\">Supporting up to 30 tests per analytical run in monotest format, the analyzer employs the ELISA detection principle to ensure high analytical sensitivity and specificity. Its broad assay portfolio encompasses autoimmunity, infectious diseases, urinary and stool antigens, inflammatory markers, bone metabolism, complement fixation, endocrinology, tumor markers, anemia, and allergy.</p>",
+    "specifications": "<ul>\n<li>Test Capacity: up to 30 different tests per run</li>\n<li>Methods: ELISA</li>\n<li>Barcode Reader: Automatic internal</li>\n<li>Dimensions: (DxWxH) 660 x 520 x 450 mm</li>\n<li>Weight: 45kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_5288f9bd44a4465cb41fd6166e071853~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_eef66199fba248ca9467c319041b3a80~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vyXUZ8NybsY",
+    "manufacturer": "DIESSE"
+  },
+  {
+    "title": "HELIOS",
+    "slug": "helios",
+    "wordpressId": 959,
+    "sourceUrl": "https://www.elincou.com/products/helios/",
+    "description": "<p>Automated IFA system whose revolutionary design offers unparalleled process control, traceability, standardization, easy of use, and maximum efficiency.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.aesku.com/index.php/automation/helios-fully-automated-ifa-processor",
+    "extraInformation": "<p style=\"font-weight: 400\">HELIOS automated IFA system combines an all-in-one IFA processor and reader with the distinction of being the only platform on the market that ensures IFA processing meets ISO, FDA, and WHO standards. It supports a broad menu of autoimmune and infectious-disease serology tests, requires no pre-dilution, and initiates reading automatically. Before each run, HELIOS automatically locks its protective cover, maintaining a controlled, reproducible environment that safeguards the assay from external interference. A comprehensive onboard pattern library, including the ICAP library, enhances interpretation accuracy, while well-by-well liquid management maintains consistent incubation times and prevents cross-contamination.</p>",
+    "specifications": "<ul>\n<li>Sample capacity: Up to 190 samples</li>\n<li>Slide capacity: Up to 20 slides</li>\n<li>IFA test capacity: Up to 4 different tests with 4 different conjugates per run</li>\n<li>Sample identification: Built-in multi-type barcode reader for sample detection and identification</li>\n<li>Dimensions: (D x W x H) 750 x 650 x 570 mm</li>\n<li>Weight: 33kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_dddef629452445ea8a3c4afa4bd64a2a~mv2.webp",
+    "logo": "https://static.wixstatic.com/media/2ea7da_8eb7c2a5acb946feaf70a8681516d757~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_cebdd6cb991d450b97e539a212381a49~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3aiXq0jeLN0",
+    "manufacturer": "AESKU"
+  },
+  {
+    "title": "HELIA",
+    "slug": "helia",
+    "wordpressId": 963,
+    "sourceUrl": "https://www.elincou.com/products/helia/",
+    "description": "<p>HELIA is an automated analyzer for line immunoassays that performs all immunoblot processing steps and delivers fully automated reading and reporting of results.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.aesku.com/images/images/automation/flyer_helia_en.pdf",
+    "extraInformation": "<p style=\"font-weight: 400\">The system streamlines and automates immunoblot testing with a strong emphasis on standardization, a minimal footprint, and easy implementation. It delivers full immunoblot automation, from primary sample tube to final result interpretation providing a true walk-away workflow. HELIA comes with a pre-installed, space-saving all-in-one PC, a 5-megapixel CMOS color-sensor camera, and an integrated barcode scanner for automatic sample detection and identification. Its menu covers autoimmunity, infectious serology, food intolerance, allergy, and gluten-related disorders.</p>",
+    "specifications": "<ul>\n<li>Number of samples: 40</li>\n<li>Sample volume: 1-300μl</li>\n<li>Work mode: Batch</li>\n<li>Barcode recognition of sample</li>\n<li>Test panels: Up to 9 panels per run</li>\n<li>Reagent positions: 18</li>\n<li>Image capture: 3 seconds per tray</li>\n<li>Dimensions (D x W x H): 750 x 650 x 50 mm</li>\n<li>Weight: 31.5kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_2cc708ffac6a48e4bded27e3896b41dc~mv2.webp",
+    "logo": "https://static.wixstatic.com/media/2ea7da_8eb7c2a5acb946feaf70a8681516d757~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_683ab8e729e048ea9207eb8a457e5cc2~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=92sGN-V-5lU",
+    "manufacturer": "AESKU"
+  },
+  {
+    "title": "HELMED",
+    "slug": "helmed",
+    "wordpressId": 967,
+    "sourceUrl": "https://www.elincou.com/products/helmed/",
+    "description": "<p>HELMED is an all-in-one processor featuring a range of unique, patented innovations designed for maximum usability and flexibility, bringing together the strengths of IFA, ELISA, and BLOT techniques on a single integrated platform.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "Immunology"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.aesku.com/index.php/automation/helmed-automated-lab-processor",
+    "extraInformation": "<p style=\"font-weight: 400\">HELMED brings together the three major laboratory techniques- IFA, ELISA, and BLOT- within a compact 1m<sup>3</sup> footprint. Its three-needle and three independent processing rings reduce overall assay time and enhance result reproducibility. A built-in barcode reader enables automatic detection and scanning of sample tube IDs, eliminating transcription errors and improving workflow reliability. Before each run, HELMED’s green protective cover locks automatically, creating a controlled and reproducible internal environment that shields assay from external interference. Despite its small size, the system’s IFA module can process up to 190 samples in a single run and supports both screening and titration from a single worklist. IFA screening can be confirmed directly on the same instrument through the BLOT and ELISA modules. None of the techniques require sample pre-dilution, further simplifying operation and reducing hands-on time.</p>",
+    "specifications": "<ul>\n<li>Sample capacity: IFA: 190 samples, ELISA: 96 samples, BLOT: 40 samples</li>\n<li>Sample identification: Built-in multi-format extractable racks</li>\n<li>Level detection: Continuous</li>\n<li>Minimum sample volume pick-up: 1μl</li>\n<li>Minimum sample volume required: 50μl</li>\n<li>Modularity: Up to 3 HELMED systems controlled by a single PC</li>\n<li>Dimensions (D x W x H): 750 x 650 x 570 mm</li>\n<li>Weight: 28kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_948af74d505d49a4a8ec490d83139f53~mv2.webp",
+    "logo": "https://static.wixstatic.com/media/2ea7da_8eb7c2a5acb946feaf70a8681516d757~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_f38dbf72f85b49908181493022e745dd~mv2.webp",
+    "videoExternalUrl": "https://www.aesku.com/images/mp4/demo_helmed_three_needle_performance.mp4",
+    "manufacturer": "AESKU"
+  },
+  {
+    "title": "BS-600M",
+    "slug": "bs-600m",
+    "wordpressId": 972,
+    "sourceUrl": "https://www.elincou.com/products/bs-600m/",
+    "description": "<p>Powerful yet efficient chemistry analyzer equipped with an integrated ISE module for simplified operation. Its flexible sample management supports continuous sample loading and rapid initiation of sample reruns, creating a more responsive workflow.</p>",
+    "categories": [
+      "Biochemistry"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemistry/medium-test-volume/bs-600m",
+    "extraInformation": "<p>A compact system with a footprint of just 1.2m<sup>2</sup> provides flexible workflow management with continuous rack loading and STAT priority for urgent samples. For HbA1c testing, onboard whole‑blood hemolysis streamlines processing by eliminating manual pretreatment, reducing biohazard exposure, and minimizing human error. With a throughput of 120 HbA1c tests per hour, turnaround times are significantly reduced, and all results remain fully traceable to IFCC/NGSP standards. Accuracy is further strengthened by the PDR Optical Platform®, which delivers panoramic, real‑time monitoring and signal traceback to eliminate interference and noise throughout the reaction process. A user‑friendly design requiring no daily maintenance, combined with an intelligent interface and breathing LED indicators, enhances operational ease. High‑level Sigma metric performance ensures superior result quality at lower cost, boosting clinical confidence and satisfaction. Proprietary FS‑Sampling® (Full Scene Sampling) technology identifies sample containers using advanced databases and algorithms to ensure highly accurate aspiration.</p>",
+    "specifications": "<ul>\n<li>Throughput: 600 photometric tests/hour and up to 800 tests/hour with ISE</li>\n<li>On-board tests: up to 77 photometric tests + 3ISEs + 3 serum indices</li>\n<li>SDM: 120 samples by 12 racks, sample continuous loading, STAT in priority</li>\n<li>Sample volume: 1.5~ 45μl, step at 0.1Μl</li>\n<li>HbA1c: Whole blood for HbA1c test</li>\n<li>Reagent tray: 80 positions</li>\n<li>Reagent volume: 10~200μl, step at 0.5Μl</li>\n<li>Reaction volume: 70~300μL</li>\n<li>Reaction cuvettes: 124 reusable cuvettes with 8-step auto wash</li>\n<li>Dimensions: (DxWxH) :1380 x 860 x 1200 mm</li>\n<li>Weight: 350kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_8ab7d46efb1145b0b19f3e93c78fe031~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_7869c6ae9033423da43a162e33db03a7~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NlgVt4gblkQ",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "BS-1000M",
+    "slug": "bs-1000m",
+    "wordpressId": 977,
+    "sourceUrl": "https://www.elincou.com/products/bs-1000m/",
+    "description": "<p>Efficient, fully automated chemistry analyzer offering high-quality integration, elevated biosafety, and exceptional analytical accuracy, supporting a broad menu of clinical chemistry assays.</p>",
+    "categories": [
+      "Biochemistry"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/chemistry/large-test-volume/bs-1000m",
+    "extraInformation": "<p style=\"font-weight: 400\">BS-1000M is a versatile chemistry analyzer capable of whole-blood HbA1c testing, photometric chemistry assays, and operation with an integrated ISE module. It supports an extensive menu of clinical chemistry assays and enhances biosafety with an integrated auto-decapper. The system can also be integrated with the CL-2600i to form M980 immunoassay modules to create a unified, high-efficiency workflow.</p>",
+    "specifications": "<ul>\n<li>Throughput: 1000 photometric tests/hour, up to 1200 tests/hour with ISE</li>\n<li>On-board tests: up to 66 (60 photometric tests, 3 ISEs and 3 serum indexes)</li>\n<li>SDM: 180 samples by racks, sample continuous loading, STAT in priority, start in 1 minute</li>\n<li>Sample volume: 1-25μL, with an increment of 0.1μ</li>\n<li>Reagent positions: 109 positions with cooling system</li>\n<li>Reagent volume: 10-200μL, with an increment of 0.5μL</li>\n<li>Reaction volume: 80-280μL</li>\n<li>Reaction cuvettes: 206 reusable cuvettes with an optional path of 5mm</li>\n<li>Dimensions (D x W x H): 900 x 1720 x 1230 mm</li>\n<li>Weight: ≤450kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_27792c9752d9460fa3f3a82f7c001a39~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_7869c6ae9033423da43a162e33db03a7~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NlgVt4gblkQ",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "VES-MATIC 5",
+    "slug": "ves-matic-5",
+    "wordpressId": 984,
+    "sourceUrl": "https://www.elincou.com/products/ves-matic-5/",
+    "description": "<p>Fully automated ESR system based on the modified Westergren method, designed to perform testing directly in EDTA tubes. It supports continuous, random-access loading and requires only minimal sample volume, ensuring streamlined and efficient operation. </p>\n\n\n\n<p></p>",
+    "categories": [
+      "ESR"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.diesse.it/en/products/ves-matic-5/",
+    "extraInformation": "<p style=\"font-weight: 400\">With a throughput of 190 tests per hour and capacity for 18 racks of 10 samples, the system is built for demanding laboratory environments. The 89-position analysis module maximizes workflow efficiency, while a dedicated method for 0.5 ml pediatric/low-volume samples allows direct measurement with no sample manipulation. It supports continuous, random-access loading of virtually any cell-counter rack, ensuring uninterrupted operation.</p>\n<p style=\"font-weight: 400\">Upcoming Artificial Intelligence-based recognition of lipemic, hemolyzed, coagulated, and mislabeled samples.</p>",
+    "specifications": "<ul>\n<li>Throughput: up to 190 tests/hour (1<sup>st</sup> result after 28 mins)</li>\n<li>Walkaway mode supported</li>\n<li>Continuous loading</li>\n<li>Random-access</li>\n<li>Sample Capacity: 18 racks of 10 samples</li>\n<li>Dimensions: (DxWxH) 830 x 850 x 750 mm</li>\n<li>Weight: 70kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_200859d6ba304ca6a49414515ffe33dd~mv2.webp",
+    "logo": "https://static.wixstatic.com/media/2ea7da_13ab85146c314c33a18f2f02115952cf~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_b2231a11826a457eaac07f501d7b1179~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=uCDErRAMOQ8",
+    "manufacturer": "DIESSE"
+  },
+  {
+    "title": "VES-MATIC CUBE 30 TOUCH",
+    "slug": "ves-matic-mini-cube-30",
+    "wordpressId": 989,
+    "sourceUrl": "https://www.elincou.com/products/ves-matic-mini-cube-30/",
+    "description": "<p>Automated system for direct ESR determination using EDTA samples, eliminating the need for dedicated citrate tubes. Features continuous sample loading for streamlined workflow efficiency.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "ESR"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.diesse.it/en/products/cube-30-touch/",
+    "extraInformation": "<p style=\"font-weight: 400\">The system can process up to 30 samples simultaneously, delivering 30 results in under 25 minutes. It supports both batch and continuous operating modes without any sample consumption. Testing is performed directly on blood collected in standard lavender-top EDTA tubes, the same tubes used for full blood count analysis. The system eliminates biological risk by performing ESR measurements directly in the closed EDTA tube used for the full blood count. No blood is exposed, no sample needs to be withdrawn, and no liquid waste is produced.</p>",
+    "specifications": "<ul>\n<li>Sample capacity: 30 samples</li>\n<li>Barcode Reader: Automatic internal</li>\n<li>Batch/continuous working mode</li>\n<li>Analyze different and non-dedicated tubes</li>\n<li>Dimensions: (DxWxH) 310 x 403 x 460 mm</li>\n<li>Weight: 14.1kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_0acc7a7ac3104c779f2b8a4bd8754b8a~mv2.webp",
+    "logo": "https://static.wixstatic.com/media/2ea7da_13ab85146c314c33a18f2f02115952cf~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_5be6e4c9686048e9bd6c97ce23aa9358~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pOxeUxJvX3Q",
+    "manufacturer": "DIESSE"
+  },
+  {
+    "title": "VES-MATIC MINI-CUBE",
+    "slug": "ves-matic-cube-30-touch",
+    "wordpressId": 993,
+    "sourceUrl": "https://www.elincou.com/products/ves-matic-cube-30-touch/",
+    "description": "<p>Automatic, continuous-loading ESR system capable of performing four tests at the same time directly from the EDTA tube.  With a micro-volume requirement of only 0.5 ml, it provides rapid, reliable results in only 20 minutes. </p>\n\n\n\n<p></p>",
+    "categories": [
+      "ESR"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.diesse.it/en/products/mini-cube/",
+    "extraInformation": "<p style=\"font-weight: 400\">Equipped with four clearly marked cuvette positions and continuous sample loading, the system ensures rapid turnaround, providing complete ESR results in 20 minutes. An optional correction function automatically adjusts ESR values for samples with hematocrit levels under 40%. The test is carried out directly on routine lavender‑top EDTA tubes, eliminating the need for special collection tubes.</p>",
+    "specifications": "<ul>\n<li>Cuvette-holder: With 4 numbered recesses for the relative cuvettes</li>\n<li>Calculation of the DAS 28</li>\n<li>Minimum blood volume: 0.5 mL</li>\n<li>Analyze different and non-dedicated tubes</li>\n<li>Dimensions: (DxWxH) 125 x 135 x 191 mm</li>\n<li>Weight: 1.5kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_1b58a5b5e4de451f8c9bfb412429dd71~mv2.webp",
+    "logo": "https://static.wixstatic.com/media/2ea7da_13ab85146c314c33a18f2f02115952cf~mv2.png",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_c4c8d722f580431c9d660fe6325b877a~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pyjAHMMtSh8",
+    "manufacturer": "DIESSE"
+  },
+  {
+    "title": "Infinity 48S",
+    "slug": "infinity-48s",
+    "wordpressId": 997,
+    "sourceUrl": "https://www.elincou.com/products/infinity-48s/",
+    "description": "<p>Automated, multi-mode molecular diagnostic analyzer designed for on-demand, real-time PCR processing in clinical diagnostics, delivering rapid, reliable results with streamlined workflow efficiency.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "PCR"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.cepheid.com/en-CY/systems/genexpert-family-of-systems/genexpert-infinity.html",
+    "extraInformation": "<p style=\"font-weight: 400\">The GeneXpert Infinity system, powered by advanced 10‑color technology, enables laboratories to run an exceptionally broad test menu on a single, scalable platform. With flexible configurations that support both 6‑ and 10‑color modules, the system’s enhanced multiplexing capability allows independent monitoring of more targets, delivering actionable results that support timely clinical decisions—often in under 60 minutes. The closed‑cartridge design minimizes contamination risk while supporting true random‑access, mix‑and‑match testing for maximum operational flexibility. The GeneXpert platform, together with its continually expanding portfolio of rapid, accurate, and user‑friendly PCR assays—including advanced multiplex and syndromic panels—provides clinicians with clinically actionable, on‑demand results across a wide spectrum of disease areas, all within a unified and scalable system.</p>",
+    "specifications": "<ul>\n<li>Number of modules:48</li>\n<li>Reagents: Cepheid test-specific, ready-to-use, barcoded kit</li>\n<li>Test throughput: 1300 in 24 hours</li>\n<li>Walk away capacity: 119 samples per Infinity ( 48 loaded in modules, 48 queued, 19 conveyors, 4 shuttle)</li>\n<li>Connectivity options:</li>\n<li>LIS and POC interfacing</li>\n<li>Cepheid C360</li>\n<li>Remote support</li>\n<li>Dimensions (DxWxH): 2160 x 890 x 2000 mm</li>\n<li>Weight: 725.7kg</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_cf38c98a1fc04f079497ed9d48b843ac~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_349923b094cf457ea66f1fafd908eea9~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=CGL9syJtkYQ",
+    "manufacturer": "Cepheid"
+  },
+  {
+    "title": "CX-6000 Series",
+    "slug": "cx-6000-series",
+    "wordpressId": 1005,
+    "sourceUrl": "https://www.elincou.com/products/cx-6000-series/",
+    "description": "<p>Automated, efficient, and innovative coagulation analyzers equipped with advanced technology to ensure consistent, high-quality performance. These mid-range systems set new standards by delivering high throughput, an ultra-stable integrated reagent cassette, intelligent retesting, and long-lasting aspiration needles as part of the standard configuration.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "Hemostasis"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/coagulation/fully-auto-coagulation/cx-6000",
+    "extraInformation": "<p style=\"font-weight: 400\">These next‑generation systems combine a compact footprint with advanced automation, including automatic sample loading, continuous sample addition, and intelligent re‑examination to streamline daily workflows. They provide more than two weeks of on‑board reagent stability, use integrated reagent kits with volatility‑proof cross‑seals, and maintain independent refrigeration of the reagent tray at 2–8 °C even after shutdown. The platforms operate with convenient tear‑and‑use liquid reagents available in 100‑ or 200‑test kit formats. Further enhancements include a Sample Quality Validation (SQV) system with HIL nine‑square assessment and an External Quality Control (EQC) system that automatically uploads daily QC data, performs statistical evaluation based on EQC rules, and delivers real‑time performance feedback.</p>",
+    "specifications": "",
+    "seriesTable": "<p>&nbsp;</p>\n<table style=\"height: 809px\" width=\"780\">\n<tbody>\n<tr>\n<td class=\"logo-cell\"><img src=\"https://static.wixstatic.com/media/2ea7da_ae21129ee76342d2a4feb98f0f18d254~mv2.png\" alt=\"Mindray Logo\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_8d09cce304294f489821d4b1f3af1009~mv2.webp\" alt=\"CX-6000\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_78244c8dff394cc593cbfc6a24f7b228~mv2.webp\" alt=\"CX-6000\" /></td>\n</tr>\n<tr>\n<td>Model</td>\n<td>CX-6000</td>\n<td>CX-6010</td>\n</tr>\n<tr>\n<td>Configuration</td>\n<td>Standing</td>\n<td>Benchtop</td>\n</tr>\n<tr>\n<td>Throughput (tests/hour)</td>\n<td>400</td>\n<td>400</td>\n</tr>\n<tr>\n<td>Reagent positions</td>\n<td>15</td>\n<td>15</td>\n</tr>\n<tr>\n<td>STAT position</td>\n<td>5</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Number of probes</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>Cuvette loading capacity (pcs)</td>\n<td>500</td>\n<td>500</td>\n</tr>\n<tr>\n<td>Barcode rotary scanning</td>\n<td>360°</td>\n<td>360°</td>\n</tr>\n</tbody>\n</table>",
+    "image": "https://static.wixstatic.com/media/2ea7da_a67399f724da4ec8a2725b4f6ba510d2~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_4c2ae922ba244fec8eb15ad11d12e49a~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kn2mWptznGE",
+    "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "CX-9000 Series",
+    "slug": "cx-9000-series",
+    "wordpressId": 1014,
+    "sourceUrl": "https://www.elincou.com/products/cx-9000-series/",
+    "description": "<p>The CX‑9000 is an award‑winning, next‑generation coagulation analyzer that elevates instrument design, software intelligence, and workflow interaction to a new level. It delivers a breakthrough solution for modern coagulation analysis, combining advanced automation with exceptional analytical performance.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "Hemostasis"
+    ],
+    "installationTypes": [
+      "Stand Alone"
+    ],
+    "manufacturerUrl": "https://www.mindray.com/en/products/laboratory-diagnostics/coagulation/fully-auto-coagulation/cx-9000",
+    "extraInformation": "<p style=\"font-weight: 400\">The CX 9000 is a floor‑standing analyzer equipped with a Sample Delivery Module (SDM) and can be seamlessly configured as a dual or triple system to accommodate higher testing volumes. Its fixed‑frequency, constant‑speed technology, multimodal instant heating, and rapid reagent replenishment collectively deliver exceptional improvements in turnaround time and overall workflow efficiency. Sealed liquid reagent cups, combined with an intelligent information management platform, ensure lean reagent consumption and effective cost control. The system incorporates an automated seven‑step APTT mixing workflow, a Sample Quality Validation (SQV) module with HIL nine‑square assessment, and a comprehensive External Quality Control (EQC) system that automates daily QC uploads, statistical evaluation, and performance monitoring. Additional conveniences include uninterrupted online reagent replacement, an independent auto‑sensing, auto‑adaptive loading tray for true place‑and‑go reagent handling, and automatic disposal of used reagent kits. Reagents offer more than two weeks of on‑board stability, feature volatility‑proof cross‑sealed integrated kits, and benefit from independent refrigeration at 2–8 °C even after system shutdown. The analyser operates with ready‑to‑use liquid reagents available in 100‑ or 200‑test kit formats, supporting both flexibility and operational efficiency.</p>",
+    "specifications": "<ul>\n<li>Throughput: 450T/H</li>\n<li>Reagent position: 33+10</li>\n<li>STAT position: 5</li>\n<li>Number of probes: 5</li>\n<li>Cuvette loading capacity: 1000 pcs</li>\n<li>Barcode rotary scanning by 360<sup>o</sup></li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_ef10bd2cbabe46e2a7047d43e63bf514~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_9ff04c02528b45c3aff429ce8cc91b85~mv2.webp",
+    "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/cx-9000-product-video-en.mp4",
+    "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
+    "manufacturer": "Mindray"
+  },
+  {
+    "title": "GeneXpert System",
+    "slug": "genexpert-system",
+    "wordpressId": 1018,
+    "sourceUrl": "https://www.elincou.com/products/genexpert-system/",
+    "description": "<p>The GeneXpert System delivers fully automated PCR testing across flexible 2‑, 4‑, and 16‑module configurations. Each platform is built around the same proven GeneXpert analytical module and uses the patented, single‑use Xpert® cartridge technology to ensure consistent, reliable performance across the entire test menu.</p>\n\n\n\n<p></p>",
+    "categories": [
+      "PCR"
+    ],
+    "installationTypes": [],
+    "manufacturerUrl": "https://www.cepheid.com/en-CY/systems/genexpert-family-of-systems/genexpert-system.html",
+    "extraInformation": "<p style=\"font-weight: 400\">GeneXpert systems are advanced molecular analyzers designed to deliver rapid, reliable results—often in about an hour, including minimum sample preparation. The patented Xpert® cartridge technology supports an extensive test menu and accommodates a wide range of sample types, while the compact, consolidated system design saves valuable laboratory space and reduces the need for multiple platforms. These next‑generation systems are also stackable, offering flexible scalability. Each GeneXpert platform fully integrates and automates sample extraction, amplification, and detection within a single cartridge. Modular configurations allow a two‑site system to operate with 1 or 2 modules, a four‑site system with 1 to 4 modules, and a sixteen‑site system with 4, 8, 12, or 16 modules, ensuring adaptable performance for laboratories of any size.</p>",
+    "specifications": "<ul>\n<li>Cartridges: Singe-use disposable</li>\n<li>Use up to 16 independently controlled reaction sites</li>\n<li>Solid state heater and forced-air cooling at each site</li>\n<li>Dimensions (DxWxH): GX-II: 297.2 x 161.3 x 304.8 mm | GX-IV: 297.2 x 279.4 x 304.8 mm | GX-XVI: 336.6 x 577.9 x 655.3 mm</li>\n</ul>",
+    "seriesTable": "",
+    "image": "https://static.wixstatic.com/media/2ea7da_b4857f690edf40c1b814f658163996e0~mv2.webp",
+    "extraImage": "https://static.wixstatic.com/media/2ea7da_eccf3bad529c4fa0bb263776aa9ae52a~mv2.webp",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UuHansCZ0d8",
+    "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
+    "manufacturer": "Cepheid"
+  }
+]
