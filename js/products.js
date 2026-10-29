@@ -103,14 +103,14 @@
     const compared = state.compared.has(product.slug);
     return `<article class="product-card ${compared ? 'is-compared' : ''}" style="--i:${index}" data-product="${escape(product.slug)}">
       <div class="product-visual"><span class="product-category">${escape(product.categories.join(' / ') || 'DIAGNOSTICS')}</span>
-        <button class="product-open-image" data-open-product="${escape(product.slug)}" aria-label="View ${escape(product.title)}">${imageMarkup(product)}</button>
+        <a class="product-open-image" data-product-link href="products/${escape(product.slug)}.html" aria-label="View ${escape(product.title)}">${imageMarkup(product)}</a>
         <span class="card-number" aria-hidden="true">EL / ${String(product.portfolioIndex).padStart(2, '0')}</span><span class="quick-view-hint">${icon('arrow')}</span>
       </div>
       <div class="product-copy"><span class="product-manufacturer">${escape(product.manufacturer || 'ELINCOU PORTFOLIO')}</span>
-        <h3 class="product-title"><button data-open-product="${escape(product.slug)}">${escape(product.title)}</button></h3>
+        <h3 class="product-title"><a data-product-link href="products/${escape(product.slug)}.html">${escape(product.title)}</a></h3>
         <p class="product-description">${escape(product.shortDescription)}</p>
         <span class="product-setup">${product.installationTypes.length ? '<i class="setup-dot" aria-hidden="true"></i>' : ''}${escape(product.installationTypes.join(' / '))}</span>
-        <div class="product-actions"><button class="details-button" data-open-product="${escape(product.slug)}" aria-label="Explore ${escape(product.title)}">Explore instrument ${icon('arrow')}</button>
+        <div class="product-actions"><a class="details-button" data-product-link href="products/${escape(product.slug)}.html" aria-label="Explore ${escape(product.title)}">Explore instrument ${icon('arrow')}</a>
           <label class="compare-check"><input type="checkbox" data-compare="${escape(product.slug)}" aria-label="Compare ${escape(product.title)}" ${compared ? 'checked' : ''} ${state.compared.size >= 3 && !compared ? 'disabled' : ''}>Compare</label>
         </div>
       </div></article>`;
@@ -238,6 +238,9 @@
   $('#clear-compare').addEventListener('click', () => { state.compared.clear(); updateCompare(); });
   $('#open-compare').addEventListener('click', event => openComparison(event.currentTarget));
   document.addEventListener('click', event => {
+    if (event.target.closest('[data-product-link]')) {
+      try { sessionStorage.setItem('elincou-catalogue-return', location.href); } catch {}
+    }
     const open = event.target.closest('[data-open-product]');
     if (open) openProduct(open.dataset.openProduct, open);
     const remove = event.target.closest('[data-remove-filter]');

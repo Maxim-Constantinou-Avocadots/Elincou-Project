@@ -13,3 +13,7 @@ Manufacturer names are derived from the supplied manufacturer website URLs. The 
 The existing `Products` collection is the eventual data source. Map `title`, `slug`, `image`, `description`, `categories`, `installationTypes`, `manufacturerUrl`, `extraInformation`, `specifications`, `seriesTable`, `videoExternalUrl`, `youtubeUrl`, and `videoUrl`. Resolve the manufacturer label from its URL or add an explicit manufacturer field. The unrelated existing sample CMS item is not included in the XML snapshot.
 
 Enquiry links lead to the existing homepage contact section. Manufacturer and product-video links open the supplied external resources. This preview does not create an enquiry backend, change the Wix page layout, or publish the Wix site.
+
+## Dedicated product pages
+
+Every product has its own statically rendered URL at `products/<slug>.html`, generated from the same dataset with `python scripts/build-product-pages.py`. These pages include source-backed overviews and specifications, available gallery views, product films and related instruments. Catalogue card links navigate to these pages. Gallery zoom and section navigation progressively enhance the static content. Product enquiries open a prefilled email to the address already used by the site's contact section.
