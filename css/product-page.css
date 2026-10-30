@@ -7,3 +7,5 @@
 
 /* Reveal the sticky action once the hero has left view. */
 .nav-request{visibility:hidden}.instrument-section-nav.is-past-hero .nav-request{visibility:visible}.mobile-product-action.inline-action-visible{visibility:hidden}
+
+.product-document{scroll-padding-top:0}
