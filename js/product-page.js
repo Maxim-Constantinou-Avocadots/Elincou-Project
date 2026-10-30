@@ -39,6 +39,18 @@
       }
     } catch { /* Fall back to the canonical portfolio URL. */ }
   }
+  if ('IntersectionObserver' in window) {
+    const heroObserver = new IntersectionObserver(entries => {
+      document.querySelector('.instrument-section-nav').classList.toggle('is-past-hero', !entries[0].isIntersecting);
+    }, { rootMargin: '-70px 0px 0px 0px', threshold: 0 });
+    heroObserver.observe(document.querySelector('.instrument-hero'));
+    const actionObserver = new IntersectionObserver(entries => {
+      document.querySelector('.mobile-product-action').classList.toggle('inline-action-visible', entries[0].isIntersecting);
+    }, { threshold: 0.3 });
+    actionObserver.observe(document.querySelector('.hero-enquiry .request-button'));
+  } else {
+    document.querySelector('.instrument-section-nav').classList.add('is-past-hero');
+  }
   const links = [...document.querySelectorAll('.instrument-section-nav>div a')];
   const sections = links.map(a => document.querySelector(a.hash)).filter(Boolean);
   if ('IntersectionObserver' in window) {

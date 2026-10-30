@@ -213,7 +213,7 @@
       state.products = products.map((p, index) => ({
         ...p,
         portfolioIndex: index + 1,
-        shortDescription: plain(p.description),
+        shortDescription: p.cardDescription || plain(p.description),
         searchText: normalize([p.title, p.manufacturer, ...p.categories, ...p.installationTypes, plain(p.description)].join(' '))
       }));
       render();

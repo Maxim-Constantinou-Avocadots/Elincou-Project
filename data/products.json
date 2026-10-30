@@ -16,7 +16,8 @@
     "specifications": "<ul>\n<li>10.4” TFT Touch screen w/ wide viewing angle</li>\n<li>25 reportable parameters + 12 research parameters</li>\n<li>3 Histograms (WBC, RBC, PLT)</li>\n<li>3 Scattergrams (DIFF*3)</li>\n<li>Sample Volume</li>\n<li>Whole Blood 15μL</li>\n<li>Capillary Whole Blood 15μL</li>\n<li>Prediluted 20μL</li>\n<li>60 samples/hour.</li>\n<li>Dimensions: (DxWxH) 400 x 320 x 410 mm</li>\n<li>Weight: 24kg</li>\n</ul>",
     "seriesTable": "",
     "image": "https://static.wixstatic.com/media/2ea7da_15b6395aebe440bd98f7acdcdc11965a~mv2.webp",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Compact hematology analyzer delivering accurate CBC and five-part differential results, with intuitive software and efficient operation for everyday laboratory testing."
   },
   {
     "title": "BC-700 Series",
@@ -38,7 +39,8 @@
     "extraImage": "https://static.wixstatic.com/media/2ea7da_97835b85d56b4ac3abf7476653d1c48a~mv2.webp",
     "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
     "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Automated hematology analyzers combining CBC and ESR testing with SF Cube technology, supporting reliable cell differentiation and streamlined laboratory workflows."
   },
   {
     "title": "BC-6000",
@@ -55,7 +57,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_bfc36fc779554ce7b4707f1c108e66ff~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_043c6f2c8b604016bba42944d62a5534~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=YQhz7jxorMg&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Compact six-part differential hematology analyzer with SF Cube technology and enhanced flagging, helping laboratories reduce manual microscopy and review workloads."
   },
   {
     "title": "BC-6200",
@@ -76,7 +79,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_0780804789a74a5b8f90e0783ed6d3e6~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_caaa228af1ba43bda7c8ffa15ec38224~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=YQhz7jxorMg",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Six-part differential hematology analyzer combining reticulocyte analysis, SF Cube technology and advanced flagging to support precise results with less manual review."
   },
   {
     "title": "BC-7600 Series",
@@ -96,7 +100,8 @@
     "seriesTable": "<table>\n<tbody>\n<tr>\n<td class=\"logo-cell\"><img src=\"https://static.wixstatic.com/media/2ea7da_74c83c97d973474d8a307bff45baa796~mv2.webp\" alt=\"Mindray Logo\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_c828c7e1dacd4f91b45f416d6edc2823~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_c828c7e1dacd4f91b45f416d6edc2823~mv2.webp\" alt=\"BC-700\" /></td>\n<td><img class=\"device-image\" src=\"https://static.wixstatic.com/media/2ea7da_c828c7e1dacd4f91b45f416d6edc2823~mv2.webp\" alt=\"BC-700\" /></td>\n</tr>\n<tr>\n<td>Model</td>\n<td>BC-7600</td>\n<td>BC-7800</td>\n<td>BC-7900</td>\n</tr>\n<tr>\n<td>Reportable<br />\nParameters (Whole<br />\nBlood / Body Fluids)</td>\n<td>37/7</td>\n<td>54/7</td>\n<td>37/7</td>\n</tr>\n<tr>\n<td>Research<br />\nParameters (Whole<br />\nBlood / Body Fluids)</td>\n<td>59/11</td>\n<td>77/30</td>\n<td>60/11</td>\n</tr>\n<tr>\n<td>Blood Bank<br />\nParameters<br />\n(Reportable /<br />\nResearch Use Only)</td>\n<td>6/12</td>\n<td>6/12</td>\n<td>6/12</td>\n</tr>\n<tr>\n<td>Histograms</td>\n<td>3 (RBC, PLT, PPLT-H)</td>\n<td>3 (RBC, PLT, PPLT-H)</td>\n<td>3 (RBC, PLT, PPLT-H)</td>\n</tr>\n<tr>\n<td>Scattergrams 2D</td>\n<td>4 (DIFF, DIFF-EXT,<br />\nWNB, PLT-H)</td>\n<td>9 (DIFF, DIFF-EXT,<br />\nWNB, PLT-H, RET,<br />\nPLT-O, RET-EXT,<br />\nRBC, RBC VHF)</td>\n<td>5 (DIFF, DIFF-EXT,<br />\nWNB, PLT-H, HMC)</td>\n</tr>\n<tr>\n<td>Scattergrams 3D</td>\n<td>3 (DIFF, WNB, PLT-<br />\nH)</td>\n<td>5 (DIFF, WNB, PLT-<br />\nH, RET, RBC VHF)</td>\n<td>4 (DIFF, WNB, PLT-<br />\nH, HMC)</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nWhole Blood C<br />\n(µL)</td>\n<td>85</td>\n<td>85</td>\n<td>85</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nWhole Blood CBC +<br />\nESR (µL)</td>\n<td>140</td>\n<td>140</td>\n<td>140</td>\n</tr>\n<tr>\n<td>Sample Volume<br />\nPrediluted (µL)</td>\n<td>20</td>\n<td>20</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Maximum<br />\nThroughput<br />\n(samples/hour)</td>\n<td>110</td>\n<td>110</td>\n<td>110</td>\n</tr>\n<tr>\n<td>Dimensions DxWxH<br />\n(mm)</td>\n<td>870 x 675 x 850</td>\n<td>870 x 675 x 850</td>\n<td>870 x 675 x 850</td>\n</tr>\n<tr>\n<td>Weight (kg)</td>\n<td>≤150 kg</td>\n<td>≤150 kg</td>\n<td>≤150kg</td>\n</tr>\n</tbody>\n</table>",
     "image": "https://static.wixstatic.com/media/2ea7da_ada0ff95ba9242aba9ba131e9edbbdc7~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_946b415ad8064e9cbc821d80ebde1855~mv2.webp",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Automated hematology analyzers combining five-part differentiation, malignancy screening flags and body fluid analysis, helping laboratories investigate samples with greater clinical insight."
   },
   {
     "title": "BC-6800 Plus",
@@ -117,7 +122,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_a0bf8855e04641babd773bd9c5702fe3~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_54b7322903654c948943e4df59a0d8f9~mv2.png",
     "youtubeUrl": "https://www.youtube.com/watch?v=YQhz7jxorMg",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "High-throughput hematology analyzer delivering routine CBC and five-part differential results, with SF Cube technology and LabXpert compatibility for efficient laboratory workflows."
   },
   {
     "title": "CAL-9000",
@@ -138,7 +144,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_d829777c4c0e4a2bab16ac75a880aaed~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_72b1585baf2143e184d7af8ca7b10277~mv2.webp",
     "videoExternalUrl": "https://mindray.scene7.com/is/content/mindray/cal-9000-product-video-1.0-en-0x720-2500k",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Fully integrated hematology solution connecting pre-analytical, analytical and post-analytical processes, with SF Cube technology and LabXpert compatibility for coordinated laboratory workflows."
   },
   {
     "title": "CAL-8000",
@@ -159,7 +166,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_df6f9a5477e34a3e915fceeabc775a63~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_0a2f47803c144a4aa1e16b4b073e920b~mv2.webp",
     "youtubeUrl": "youtube.com/watch?v=sddi07SQFN4&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Integrated hematology solution combining blood analysis, automated slide preparation and staining, with SF Cube technology for a streamlined, connected laboratory workflow."
   },
   {
     "title": "CL-960i",
@@ -178,7 +186,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_be8f65344b4d45b68eb6403940d9fa61~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_d5408662c34e4855a32657823e62f9a9~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?time_continue=6&amp;v=_tPWnOSsKDU&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Compact automated immunoassay analyzer combining chemiluminescence technology, fast assay processing and generous capacity, with minimal maintenance requirements for efficient laboratory operation."
   },
   {
     "title": "CL-2600i",
@@ -196,7 +205,8 @@
     "seriesTable": "",
     "image": "https://static.wixstatic.com/media/2ea7da_22fc83e84273414b80e96dfdc002eecb~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_cbcc319a13f74e5f9066f98e36551d8d~mv2.webp",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Automated chemiluminescence immunoassay analyzer offering intuitive operation and biochemistry integration, with no daily maintenance required to simplify routine laboratory testing workflows."
   },
   {
     "title": "CL-2000i",
@@ -215,7 +225,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_950068a7a1834a73b89911fc15bc362e~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_4f54978322bc44af80c4832ba21a7e74~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=K7Yn-hgBeYI",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Scalable chemiluminescence immunoassay analyzer delivering high-throughput testing, straightforward operation and biochemistry integration to support efficient analysis across growing laboratory testing workloads."
   },
   {
     "title": "Cl-8000i",
@@ -234,7 +245,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_cd1c7d3d402448febde3e37e573b656c~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_a9e37991498f491d95ef95daea298249~mv2.webp",
     "videoExternalUrl": "https://mindray.scene7.com/is/content/mindray/cl-8000i-product-video-1.0-en_x264-0x720-2500k",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "High-throughput chemiluminescence immunoassay analyzer with intelligent automation and flexible biochemistry integration, helping laboratories increase productivity without the need for daily maintenance."
   },
   {
     "title": "BS-240/BS-240Pro",
@@ -255,7 +267,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_b87aad2a5f6e4bc3847149f84340df49~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_eb06db197bfa4190beac95e457127af9~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=ksCjG_4MXUE",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Compact benchtop chemistry analyzer combining versatile testing capabilities with efficient operation, offering laboratories an adaptable solution for routine clinical chemistry analysis."
   },
   {
     "title": "BS-430",
@@ -276,7 +289,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_2b112cf78bf44e4fb018b136565a36d1~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_f5faec13f3a04b64851508bb2a308fb3~mv2.webp",
     "youtubeUrl": "youtube.com/watch?v=TRkIiFPVo7s&amp;embeds_referring_euri=https%3A%2F%2Fwww.mindray.com%2F&amp;source_ve_path=MjM4NTE",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Cost-efficient chemistry analyzer delivering accurate, stable results through smart operational features, helping laboratories improve everyday testing productivity with straightforward, user-friendly operation."
   },
   {
     "title": "M680",
@@ -297,7 +311,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_d063f3d292b74f37add601fa5e6d4544~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_4cd0bab287fd4711b43eea24a26ce177~mv2.webp",
     "videoExternalUrl": "https://mindray.scene7.com/is/content/mindray/m680-product-video-en-0x720-3000k",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Integrated chemistry and immunoassay system combining robust performance with streamlined workflows, helping laboratories improve efficiency while reducing maintenance requirements and service costs."
   },
   {
     "title": "EU 5600 Pro/5300 Pro",
@@ -318,7 +333,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_8083928c1cd74baca146db05de15c33d~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_f97e08dd7f154c48bbb27321d03d2686~mv2.webp",
     "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/eu-5300-5600-pro-product-video-en.mp4",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Automated urinalysis system combining precise analysis with LabXpert compatibility, helping laboratories increase testing efficiency while substantially reducing the need for manual microscopy."
   },
   {
     "title": "AP-100",
@@ -336,7 +352,8 @@
     "seriesTable": "",
     "image": "https://static.wixstatic.com/media/2ea7da_1f46f007586847f5b0b59904b5939420~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_592c1439a2524ae9a0645930aeb538a9~mv2.webp",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Compact automated dosing system for Mindray ID/AST testing, reducing manual intervention while supporting accurate plate dosing and safer operation inside biosafety cabinets."
   },
   {
     "title": "TDR-Z200 Turbidimeter",
@@ -352,7 +369,8 @@
     "extraInformation": "<p>The TDR-Z200 Microbial Turbidimeter is designed for measuring bacterial concentration using infrared light scattering, featuring user-friendly operation and high accuracy.</p>",
     "specifications": "<ul>\n<li>Measuring range: 0-6 MCF (0.5 MCF = 1.5 x 104 CFU/mL)</li>\n<li>Readout accuracy: 0.01 MCF</li>\n<li>Accuracy: Within ±0.1 MCF</li>\n<li>Repeatability: ≤5%</li>\n<li>Dimensions: (DxWxH) 240 x 96 x 78 mm</li>\n<li>Weight: 3kg</li>\n</ul>",
     "seriesTable": "",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Microbial turbidimeter using infrared light scattering to measure bacterial concentration, combining straightforward operation with high accuracy for routine laboratory sample assessment."
   },
   {
     "title": "AF-300",
@@ -371,7 +389,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_bc504cc49ccc4fe6862251605471fd3a~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_980a4d72ea2247a98c940e6dbd8cb817~mv2.webp",
     "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/af-600-300-product-video.mp4",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Automated microbial identification and susceptibility testing system with comprehensive ID/AST panels, combining accurate analysis and intelligent workflows to improve laboratory efficiency."
   },
   {
     "title": "CAL-6000",
@@ -392,7 +411,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_9832d63a1b764faba29c63f113f82add~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_0a2f47803c144a4aa1e16b4b073e920b~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=89bfSxnimiE",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Integrated benchtop hematology solution combining blood analysis and automated slide staining, with SF Cube technology and LabXpert compatibility for streamlined laboratory workflows."
   },
   {
     "title": "Chorus EVO",
@@ -413,7 +433,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_ecfd8766dd7243879c48d88ad88935d7~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_7b83ab33bf1d4f93bf4ae5a259f8f588~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=9Y_lBdMms1U",
-    "manufacturer": "DIESSE"
+    "manufacturer": "DIESSE",
+    "cardDescription": "Automated random-access immunoassay analyzer supporting three detection methods and over 150 assays, providing laboratories with flexible testing across diverse clinical applications."
   },
   {
     "title": "Chorus TRIO",
@@ -434,7 +455,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_5288f9bd44a4465cb41fd6166e071853~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_eef66199fba248ca9467c319041b3a80~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=vyXUZ8NybsY",
-    "manufacturer": "DIESSE"
+    "manufacturer": "DIESSE",
+    "cardDescription": "Flexible ELISA immunoassay analyzer combining efficient testing with minimal manual intervention, offering an extensive assay menu and intuitive operation across clinical applications."
   },
   {
     "title": "HELIOS",
@@ -456,7 +478,8 @@
     "logo": "https://static.wixstatic.com/media/2ea7da_8eb7c2a5acb946feaf70a8681516d757~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_cebdd6cb991d450b97e539a212381a49~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=3aiXq0jeLN0",
-    "manufacturer": "AESKU"
+    "manufacturer": "AESKU",
+    "cardDescription": "Automated IFA system combining process control, traceability and standardization, helping laboratories simplify operation and improve efficiency throughout their immunofluorescence testing workflows."
   },
   {
     "title": "HELIA",
@@ -478,7 +501,8 @@
     "logo": "https://static.wixstatic.com/media/2ea7da_8eb7c2a5acb946feaf70a8681516d757~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_683ab8e729e048ea9207eb8a457e5cc2~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=92sGN-V-5lU",
-    "manufacturer": "AESKU"
+    "manufacturer": "AESKU",
+    "cardDescription": "Automated line immunoassay analyzer managing every immunoblot processing step, including result reading and reporting, to simplify testing and streamline laboratory workflows."
   },
   {
     "title": "HELMED",
@@ -500,7 +524,8 @@
     "logo": "https://static.wixstatic.com/media/2ea7da_8eb7c2a5acb946feaf70a8681516d757~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_f38dbf72f85b49908181493022e745dd~mv2.webp",
     "videoExternalUrl": "https://www.aesku.com/images/mp4/demo_helmed_three_needle_performance.mp4",
-    "manufacturer": "AESKU"
+    "manufacturer": "AESKU",
+    "cardDescription": "Integrated laboratory processor combining IFA, ELISA and BLOT techniques on one platform, providing flexible assay processing with intuitive operation and patented innovations."
   },
   {
     "title": "BS-600M",
@@ -521,7 +546,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_8ab7d46efb1145b0b19f3e93c78fe031~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_7869c6ae9033423da43a162e33db03a7~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=NlgVt4gblkQ",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Chemistry analyzer with integrated ISE measurement, continuous sample loading and rapid reruns, helping laboratories simplify operation and maintain responsive clinical testing workflows."
   },
   {
     "title": "BS-1000M",
@@ -542,7 +568,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_27792c9752d9460fa3f3a82f7c001a39~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_7869c6ae9033423da43a162e33db03a7~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=NlgVt4gblkQ",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Fully automated chemistry analyzer combining analytical accuracy, enhanced biosafety and integration capabilities, supporting a broad assay menu for efficient clinical laboratory testing."
   },
   {
     "title": "VES-MATIC 5",
@@ -562,7 +589,8 @@
     "logo": "https://static.wixstatic.com/media/2ea7da_13ab85146c314c33a18f2f02115952cf~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_b2231a11826a457eaac07f501d7b1179~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=uCDErRAMOQ8",
-    "manufacturer": "DIESSE"
+    "manufacturer": "DIESSE",
+    "cardDescription": "Automated ESR system using the modified Westergren method directly in EDTA tubes, with continuous random-access loading and minimal sample volume requirements."
   },
   {
     "title": "VES-MATIC CUBE 30 TOUCH",
@@ -582,7 +610,8 @@
     "logo": "https://static.wixstatic.com/media/2ea7da_13ab85146c314c33a18f2f02115952cf~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_5be6e4c9686048e9bd6c97ce23aa9358~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=pOxeUxJvX3Q",
-    "manufacturer": "DIESSE"
+    "manufacturer": "DIESSE",
+    "cardDescription": "Automated ESR analyzer testing directly from EDTA samples, eliminating dedicated citrate tubes and supporting continuous sample loading for an efficient laboratory workflow."
   },
   {
     "title": "VES-MATIC MINI-CUBE",
@@ -602,7 +631,8 @@
     "logo": "https://static.wixstatic.com/media/2ea7da_13ab85146c314c33a18f2f02115952cf~mv2.png",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_c4c8d722f580431c9d660fe6325b877a~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=pyjAHMMtSh8",
-    "manufacturer": "DIESSE"
+    "manufacturer": "DIESSE",
+    "cardDescription": "Compact automated ESR analyzer processing four EDTA samples simultaneously, requiring just 0.5 ml per sample and delivering reliable results within 20 minutes."
   },
   {
     "title": "Infinity 48S",
@@ -621,7 +651,8 @@
     "image": "https://static.wixstatic.com/media/2ea7da_cf38c98a1fc04f079497ed9d48b843ac~mv2.webp",
     "extraImage": "https://static.wixstatic.com/media/2ea7da_349923b094cf457ea66f1fafd908eea9~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=CGL9syJtkYQ",
-    "manufacturer": "Cepheid"
+    "manufacturer": "Cepheid",
+    "cardDescription": "Automated molecular diagnostic analyzer supporting on-demand, real-time PCR testing, combining rapid results with flexible processing modes and streamlined clinical laboratory workflows."
   },
   {
     "title": "CX-6000 Series",
@@ -643,7 +674,8 @@
     "extraImage": "https://static.wixstatic.com/media/2ea7da_4c2ae922ba244fec8eb15ad11d12e49a~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=kn2mWptznGE",
     "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Automated coagulation analyzers combining high throughput, stable integrated reagent cassettes and intelligent retesting, supporting consistent analytical performance and efficient laboratory operation."
   },
   {
     "title": "CX-9000 Series",
@@ -665,7 +697,8 @@
     "extraImage": "https://static.wixstatic.com/media/2ea7da_9ff04c02528b45c3aff429ce8cc91b85~mv2.webp",
     "videoExternalUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/cx-9000-product-video-en.mp4",
     "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
-    "manufacturer": "Mindray"
+    "manufacturer": "Mindray",
+    "cardDescription": "Advanced coagulation analyzer combining intelligent software, automated workflows and high analytical performance, helping laboratories manage demanding testing volumes with greater efficiency."
   },
   {
     "title": "GeneXpert System",
@@ -685,6 +718,7 @@
     "extraImage": "https://static.wixstatic.com/media/2ea7da_eccf3bad529c4fa0bb263776aa9ae52a~mv2.webp",
     "youtubeUrl": "https://www.youtube.com/watch?v=UuHansCZ0d8",
     "videoUrl": "https://www.mindray.com/content/dam/xpace/en/resources/videos/prodcut-information/mindray-bc-700-series.mp4",
-    "manufacturer": "Cepheid"
+    "manufacturer": "Cepheid",
+    "cardDescription": "Fully automated PCR testing system with flexible module configurations and single-use Xpert cartridges, delivering consistent performance across a comprehensive molecular testing menu."
   }
 ]

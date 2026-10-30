@@ -17,3 +17,7 @@ Enquiry links lead to the existing homepage contact section. Manufacturer and pr
 ## Dedicated product pages
 
 Every product has its own statically rendered URL at `products/<slug>.html`, generated from the same dataset with `python scripts/build-product-pages.py`. These pages include source-backed overviews and specifications, available gallery views, product films and related instruments. Catalogue card links navigate to these pages. Gallery zoom and section navigation progressively enhance the static content. Product enquiries open a prefilled email to the address already used by the site's contact section.
+
+## Product-page clarity revision
+
+The product hero now uses the current CMS Card Description as a short summary. Long-form source details appear in a readable overview, followed by specifications and optional video. The same “Request product information” CTA opens a prefilled email from the hero, sticky navigation and final contact block. Mobile retains a fixed bottom enquiry button. Related items share a discipline; unrelated instruments are not used to fill empty slots. Gallery images remain grouped together, and no duplicate full-width gallery section is generated.
