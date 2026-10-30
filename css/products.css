@@ -12,3 +12,7 @@
 
 /* Full product-page links preserve catalogue card styling. */
 .product-title>a{color:inherit;text-decoration:none}.details-button,.featured-product{text-decoration:none}.product-open-image{color:inherit;text-decoration:none}
+
+/* Careers navigation remains reachable on small screens. */
+@media(max-width:900px){.catalog-header nav a[href$="careers.html"]{display:flex}}
+@media(max-width:650px){.catalog-header nav a[href$="products.html"]{display:none}}
