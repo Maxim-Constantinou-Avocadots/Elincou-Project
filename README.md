@@ -39,3 +39,7 @@ then visit http://localhost:4173.
 - **Typeface:** Gothic A1 — Light (body), Regular (headings), SemiBold (emphasis/UI)
 - **Logo:** never below 20px height; clear space = symbol height; black or white only outside the palette
 - **Promise:** *Advancing diagnostics together.*
+
+## Product portfolio
+
+Open `products.html` over HTTP to explore the 34-product XML snapshot. Features include category and installation filters, search, sorting, URL-persisted filtering, product detail dialogs and a comparison of two or three instruments. Data provenance and the Wix CMS handoff are documented in `data/README.md`.
